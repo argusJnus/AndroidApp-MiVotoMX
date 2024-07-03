@@ -9,16 +9,14 @@
             }
     
             public function getUsuarios(){
-                //$dia = date('Y-m-d');
                 $statement = "SELECT * FROM ".$this->tabla;
                 $query = $this->conn->prepare($statement);
-                //$query->bindParam(":fecha", $dia);
                 $query->execute();
                 return $query;
             
             }
             
-            //----------------------------->Nuevo<-----------------------------
+            //Obtiene usuario a partir de su ID
             public function getUser($idUsuario){
                 $statement = "SELECT * FROM ".$this->tabla." WHERE idUsuario = :idUsuario";
                 $query = $this->conn->prepare($statement);
@@ -37,7 +35,7 @@
                 return $query;
             }
 
-            //Valida usuario con correo y contraseña para logear
+            //Obtiene usuario de acuerdo al correo proporcionado
             public function readUsuario($correo){
                 $statement = "SELECT * FROM ".$this->tabla." WHERE correo = :correo";
                 $query = $this->conn->prepare($statement);
