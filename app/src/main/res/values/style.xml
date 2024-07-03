@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FullScreenDialogStyle" parent="Base.Theme.ProyectoVOTOS_tovar41">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowMinWidthMajor">100%</item>
+        <item name="android:windowMinWidthMinor">100%</item>
+        <item name="colorPrimary">@color/primario</item>
+    </style>
+
+</resources>

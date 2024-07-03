@@ -1,0 +1,2595 @@
+<resources>
+    <string name="app_name">Mi VotoMX</string>
+
+    <string-array name="estados">
+        <item>AGUASCALIENTES</item>
+        <item>BAJA CALIFORNIA</item>
+        <item>BAJA CALIFORNIA SUR</item>
+        <item>CAMPECHE</item>
+        <item>CHIAPAS</item>
+        <item>CHIHUAHUA</item>
+        <item>CIUDAD DE MEXICO</item>
+        <item>COAHUILA</item>
+        <item>COLIMA</item>
+        <item>DURANGO</item>
+        <item>ESTADO DE MEXICO</item>
+        <item>GUANAJUATO</item>
+        <item>GUERRERO</item>
+        <item>HIDALGO</item>
+        <item>JALISCO</item>
+        <item>MICHOACAN</item>
+        <item>MORELOS</item>
+        <item>NAYARIT</item>
+        <item>NUEVO LEON</item>
+        <item>OAXACA</item>
+        <item>PUEBLA</item>
+        <item>QUERETARO</item>
+        <item>QUINTANA ROO</item>
+        <item>SAN LUIS POTOSI</item>
+        <item>SINALOA</item>
+        <item>SONORA</item>
+        <item>TABASCO</item>
+        <item>TAMAULIPAS</item>
+        <item>TLAXCALA</item>
+        <item>VERACRUZ</item>
+        <item>YUCATAN</item>
+        <item>ZACATECAS</item>
+    </string-array>
+
+    <string-array name="municipios_AGUASCALIENTES">
+        <item>AGUASCALIENTES</item>
+        <item>ASIENTOS</item>
+        <item>CALVILLO</item>
+        <item>COSIO</item>
+        <item>JESUS MARIA</item>
+        <item>PABELLON DE ARTEAGA</item>
+        <item>RINCON DE ROMOS</item>
+        <item>SAN JOSE DE GRACIA</item>
+        <item>TEPEZALA</item>
+        <item>EL LLANO</item>
+        <item>SAN FRANCISCO DE LOS ROMO</item>
+    </string-array>
+
+    <string-array name="municipios_BAJA_CALIFORNIA">
+        <item>ENSENADA</item>
+        <item>MEXICALI</item>
+        <item>TECATE</item>
+        <item>TIJUANA</item>
+        <item>PLAYAS DE ROSARITO</item>
+        <item>SAN QUINTIN</item>
+        <item>SAN FELIPE</item>
+    </string-array>
+
+    <string-array name="municipios_BAJA_CALIFORNIA_SUR">
+        <item>COMONDU</item>
+        <item>MULEGE</item>
+        <item>LA PAZ</item>
+        <item>LOS CABOS</item>
+        <item>LORETO</item>
+    </string-array>
+
+    <string-array name="municipios_CAMPECHE">
+        <item>CALKINI</item>
+        <item>CAMPECHE</item>
+        <item>CARMEN</item>
+        <item>CHAMPOTON</item>
+        <item>HECELCHAKAN</item>
+        <item>HOPELCHEN</item>
+        <item>PALIZADA</item>
+        <item>TENABO</item>
+        <item>ESCARCEGA</item>
+        <item>CALAKMUL</item>
+        <item>CANDELARIA</item>
+        <item>SEYBAPLAYA</item>
+        <item>DZITBALCHE</item>
+    </string-array>
+
+    <string-array name="municipios_CHIAPAS">
+        <item>ACACOYAGUA</item>
+        <item>ACALA</item>
+        <item>ACAPETAHUA</item>
+        <item>ALTAMIRANO</item>
+        <item>AMATAN</item>
+        <item>AMATENANGO DE LA FRONTERA</item>
+        <item>AMATENANGO DEL VALLE</item>
+        <item>ANGEL ALBINO CORZO</item>
+        <item>ARRIAGA</item>
+        <item>BEJUCAL DE OCAMPO</item>
+        <item>BELLA VISTA</item>
+        <item>BERRIOZABAL</item>
+        <item>BOCHIL</item>
+        <item>EL BOSQUE</item>
+        <item>CACAHOATAN</item>
+        <item>CATAZAJA</item>
+        <item>CINTALAPA</item>
+        <item>COAPILLA</item>
+        <item>COMITAN DE DOMINGUEZ</item>
+        <item>LA CONCORDIA</item>
+        <item>COPAINALA</item>
+        <item>CHALCHIHUITAN</item>
+        <item>CHAMULA</item>
+        <item>CHANAL</item>
+        <item>CHAPULTENANGO</item>
+        <item>CHENALHO</item>
+        <item>CHIAPA DE CORZO</item>
+        <item>CHIAPILLA</item>
+        <item>CHICOASEN</item>
+        <item>CHICOMUSELO</item>
+        <item>CHILON</item>
+        <item>ESCUINTLA</item>
+        <item>FRANCISCO LEON</item>
+        <item>FRONTERA COMALAPA</item>
+        <item>FRONTERA HIDALGO</item>
+        <item>LA GRANDEZA</item>
+        <item>HUEHUETAN</item>
+        <item>HUIXTAN</item>
+        <item>HUITIUPAN</item>
+        <item>HUIXTLA</item>
+        <item>LA INDEPENDENCIA</item>
+        <item>IXHUATAN</item>
+        <item>IXTACOMITAN</item>
+        <item>IXTAPA</item>
+        <item>IXTAPANGAJOYA</item>
+        <item>JIQUIPILAS</item>
+        <item>JITOTOL</item>
+        <item>JUAREZ</item>
+        <item>LARRAINZAR</item>
+        <item>LA LIBERTAD</item>
+        <item>MAPASTEPEC</item>
+        <item>LAS MARGARITAS</item>
+        <item>MAZAPA DE MADERO</item>
+        <item>MAZATAN</item>
+        <item>METAPA</item>
+        <item>MITONTIC</item>
+        <item>MOTOZINTLA</item>
+        <item>NICOLAS RUIZ</item>
+        <item>OCOSINGO</item>
+        <item>OCOTEPEC</item>
+        <item>OCOZOCOAUTLA DE ESPINOSA</item>
+        <item>OSTUACAN</item>
+        <item>OSUMACINTA</item>
+        <item>OXCHUC</item>
+        <item>PALENQUE</item>
+        <item>PANTELHO</item>
+        <item>PANTEPEC</item>
+        <item>PICHUCALCO</item>
+        <item>PIJIJIAPAN</item>
+        <item>EL PORVENIR</item>
+        <item>VILLA COMALTITLAN</item>
+        <item>PUEBLO NUEVO SOLISTAHOACAN</item>
+        <item>RAYON</item>
+        <item>REFORMA</item>
+        <item>LAS ROSAS</item>
+        <item>SABANILLA</item>
+        <item>SALTO DE AGUA</item>
+        <item>SAN CRISTOBAL DE LAS CASAS</item>
+        <item>SAN FERNANDO</item>
+        <item>SILTEPEC</item>
+        <item>SIMOJOVEL</item>
+        <item>SITALA</item>
+        <item>SOCOLTENANGO</item>
+        <item>SOLOSUCHIAPA</item>
+        <item>SOYALO</item>
+        <item>SUCHIAPA</item>
+        <item>SUCHIATE</item>
+        <item>SUNUAPA</item>
+        <item>TAPACHULA</item>
+        <item>TAPALAPA</item>
+        <item>TAPILULA</item>
+        <item>TECPATAN</item>
+        <item>TENEJAPA</item>
+        <item>TEOPISCA</item>
+        <item>TILA</item>
+        <item>TONALA</item>
+        <item>TOTOLAPA</item>
+        <item>LA TRINITARIA</item>
+        <item>TUMBALA</item>
+        <item>TUXTLA GUTIERREZ</item>
+        <item>TUXTLA CHICO</item>
+        <item>TUZANTAN</item>
+        <item>TZIMOL</item>
+        <item>UNION JUAREZ</item>
+        <item>VENUSTIANO CARRANZA</item>
+        <item>VILLA CORZO</item>
+        <item>VILLAFLORES</item>
+        <item>YAJALON</item>
+        <item>SAN LUCAS</item>
+        <item>ZINACANTAN</item>
+        <item>SAN JUAN CANCUC</item>
+        <item>ALDAMA</item>
+        <item>BENEMERITO DE LAS AMERICAS</item>
+        <item>MARAVILLA TENJAPA</item>
+        <item>MARQUES DE COMILLAS</item>
+        <item>MONTECRISTO DE GUERRERO</item>
+        <item>SAN ANDRES DURAZNAL</item>
+        <item>SANTIAGO EL PINAR</item>
+        <item>CAPITAN LUIS ANGEL VIDAL</item>
+        <item>RINCON CHAMULA SAN PEDRO</item>
+        <item>EL PARRAL</item>
+        <item>EMILIANO ZAPATA</item>
+        <item>MEZCALAPA</item>
+        <item>HONDURAS DE LA SIERRA</item>
+    </string-array>
+
+    <string-array name="municipios_CHIHUAHUA">
+        <item>AHUMADA</item>
+        <item>ALDAMA</item>
+        <item>ALLENDE</item>
+        <item>AQUILES SERDAN</item>
+        <item>ASCENSION</item>
+        <item>BACHINIVA</item>
+        <item>BALLEZA</item>
+        <item>BATOPILAS DE MANUEL GOMEZ MORIN</item>
+        <item>BOCOYNA</item>
+        <item>BUENAVENTURA</item>
+        <item>CAMARGO</item>
+        <item>CARICHI</item>
+        <item>CASAS GRANDES</item>
+        <item>CORONADO</item>
+        <item>COYAME DEL SOTOL</item>
+        <item>LA CRUZ</item>
+        <item>CUAUHTEMOC</item>
+        <item>CUSIHUIRIACHI</item>
+        <item>CHIHUAHUA</item>
+        <item>CHINIPAS</item>
+        <item>DELICIAS</item>
+        <item>DR. BELISARIO DOMINGUEZ</item>
+        <item>GALEANA</item>
+        <item>SANTA ISABEL</item>
+        <item>GOMEZ FARIAS</item>
+        <item>GRAN MORELOS</item>
+        <item>GUACHOCHI</item>
+        <item>GUADALUPE</item>
+        <item>GUADALUPE Y CALVO</item>
+        <item>GUAZAPARES</item>
+        <item>GUERRERO</item>
+        <item>HIDALGO DEL PARRAL</item>
+        <item>HUEJOTITAN</item>
+        <item>IGNACIO ZARAGOZA</item>
+        <item>JANOS</item>
+        <item>JIMENEZ</item>
+        <item>JUAREZ</item>
+        <item>JULIMES</item>
+        <item>LOPEZ</item>
+        <item>MADERA</item>
+        <item>MAGUARICHI</item>
+        <item>MANUEL BENAVIDES</item>
+        <item>MATACHI</item>
+        <item>MATAMOROS</item>
+        <item>MEOQUI</item>
+        <item>MORELOS</item>
+        <item>MORIS</item>
+        <item>NAMIQUIPA</item>
+        <item>NONOAVA</item>
+        <item>NUEVO CASAS GRANDES</item>
+        <item>OCAMPO</item>
+        <item>OJINAGA</item>
+        <item>PRAXEDIS G. GUERRERO</item>
+        <item>RIVA PALACIO</item>
+        <item>ROSALES</item>
+        <item>ROSARIO</item>
+        <item>SAN FRANCISCO DE BORJA</item>
+        <item>SAN FRANCISCO DE CONCHOS</item>
+        <item>SAN FRANCISCO DEL ORO</item>
+        <item>SANTA BARBARA</item>
+        <item>SATEVO</item>
+        <item>SAUCILLO</item>
+        <item>TEMOSACHIC</item>
+        <item>EL TULE</item>
+        <item>URIQUE</item>
+        <item>URUACHI</item>
+        <item>VALLE DE ZARAGOZA</item>
+    </string-array>
+
+    <string-array name="municipios_CIUDAD_DE_MEXICO">
+        <item>AZCAPOTZALCO</item>
+        <item>COYOACAN</item>
+        <item>CUAJIMALPA DE MORELOS</item>
+        <item>GUSTAVO A. MADERO</item>
+        <item>IZTACALCO</item>
+        <item>IZTAPALAPA</item>
+        <item>LA MAGDALENA CONTRERAS</item>
+        <item>MILPA ALTA</item>
+        <item>ALVARO OBREGON</item>
+        <item>TLAHUAC</item>
+        <item>TLALPAN</item>
+        <item>XOCHIMILCO</item>
+        <item>BENITO JUAREZ</item>
+        <item>CUAUHTEMOC</item>
+        <item>MIGUEL HIDALGO</item>
+        <item>VENUSTIANO CARRANZA</item>
+    </string-array>
+
+    <string-array name="municipios_COAHUILA">
+        <item>ABASOLO</item>
+        <item>ACUNA</item>
+        <item>ALLENDE</item>
+        <item>ARTEAGA</item>
+        <item>CANDELA</item>
+        <item>CASTANOS</item>
+        <item>CUATRO CIENEGAS</item>
+        <item>ESCOBEDO</item>
+        <item>FRANCISCO I. MADERO</item>
+        <item>FRONTERA</item>
+        <item>GENERAL CEPEDA</item>
+        <item>GUERRERO</item>
+        <item>HIDALGO</item>
+        <item>JIMENEZ</item>
+        <item>JUAREZ</item>
+        <item>LAMADRID</item>
+        <item>MATAMOROS</item>
+        <item>MONCLOVA</item>
+        <item>MORELOS</item>
+        <item>MUZQUIZ</item>
+        <item>NADADORES</item>
+        <item>NAVA</item>
+        <item>OCAMPO</item>
+        <item>PARRAS</item>
+        <item>PIEDRAS NEGRAS</item>
+        <item>PROGRESO</item>
+        <item>RAMOS ARIZPE</item>
+        <item>SABINAS</item>
+        <item>SACRAMENTO</item>
+        <item>SALTILLO</item>
+        <item>SAN BUENAVENTURA</item>
+        <item>SAN JUAN DE SABINAS</item>
+        <item>SAN PEDRO</item>
+        <item>SIERRA MOJADA</item>
+        <item>TORREON</item>
+        <item>VIESCA</item>
+        <item>VILLA UNION</item>
+        <item>ZARAGOZA</item>
+    </string-array>
+
+    <string-array name="municipios_COLIMA">
+        <item>ARMERIA</item>
+        <item>COLIMA</item>
+        <item>COMALA</item>
+        <item>COQUIMATLAN</item>
+        <item>CUAUHTEMOC</item>
+        <item>IXTLAHUACAN</item>
+        <item>MANZANILLO</item>
+        <item>MINATITLAN</item>
+        <item>TECOMAN</item>
+        <item>VILLA DE ALVAREZ</item>
+    </string-array>
+
+    <string-array name="municipios_DURANGO">
+        <item>CANATLAN</item>
+        <item>CANELAS</item>
+        <item>CONETO DE COMONFORT</item>
+        <item>CUENCAME</item>
+        <item>DURANGO</item>
+        <item>GENERAL SIMON BOLIVAR</item>
+        <item>GOMEZ PALACIO</item>
+        <item>GUADALUPE VICTORIA</item>
+        <item>GUANACEVI</item>
+        <item>HIDALGO</item>
+        <item>INDE</item>
+        <item>LERDO</item>
+        <item>MAPIMI</item>
+        <item>MEZQUITAL</item>
+        <item>NAZAS</item>
+        <item>NOMBRE DE DIOS</item>
+        <item>OCAMPO</item>
+        <item>EL ORO</item>
+        <item>OTAEZ</item>
+        <item>PANUCO DE CORONADO</item>
+        <item>PENON BLANCO</item>
+        <item>POANAS</item>
+        <item>PUEBLO NUEVO</item>
+        <item>RODEO</item>
+        <item>SAN BERNARDO</item>
+        <item>SAN DIMAS</item>
+        <item>SAN JUAN DE GUADALUPE</item>
+        <item>SAN JUAN DEL RIO</item>
+        <item>SAN LUIS DEL CORDERO</item>
+        <item>SAN PEDRO DEL GALLO</item>
+        <item>SANTA CLARA</item>
+        <item>SANTIAGO PAPASQUIARO</item>
+        <item>SUCHIL</item>
+        <item>TAMAZULA</item>
+        <item>TEPEHUANES</item>
+        <item>TLAHUALILO</item>
+        <item>TOPIA</item>
+        <item>VICENTE GUERRERO</item>
+        <item>NUEVO IDEAL</item>
+    </string-array>
+
+    <string-array name="municipios_ESTADO_DE_MEXICO">
+        <item>ACAMBAY DE RUIZ CASTANEDA</item>
+        <item>ACOLMAN</item>
+        <item>ACULCO</item>
+        <item>ALMOLOYA DE ALQUISIRAS</item>
+        <item>ALMOLOYA DE JUAREZ</item>
+        <item>ALMOLOYA DEL RIO</item>
+        <item>AMANALCO</item>
+        <item>AMATEPEC</item>
+        <item>AMECAMECA</item>
+        <item>APAXCO</item>
+        <item>ATENCO</item>
+        <item>ATIZAPAN</item>
+        <item>ATIZAPAN DE ZARAGOZA</item>
+        <item>ATLACOMULCO</item>
+        <item>ATLAUTLA</item>
+        <item>AXAPUSCO</item>
+        <item>AYAPANGO</item>
+        <item>CALIMAYA</item>
+        <item>CAPULHUAC</item>
+        <item>COACALCO DE BERRIOZABAL</item>
+        <item>COATEPEC HARINAS</item>
+        <item>COCOTITLAN</item>
+        <item>COYOTEPEC</item>
+        <item>CUAUTITLAN</item>
+        <item>CHALCO</item>
+        <item>CHAPA DE MOTA</item>
+        <item>CHAPULTEPEC</item>
+        <item>CHIAUTLA</item>
+        <item>CHICOLOAPAN</item>
+        <item>CHICONCUAC</item>
+        <item>CHIMALHUACAN</item>
+        <item>DONATO GUERRA</item>
+        <item>ECATEPEC DE MORELOS</item>
+        <item>ECATZINGO</item>
+        <item>HUEHUETOCA</item>
+        <item>HUEYPOXTLA</item>
+        <item>HUIXQUILUCAN</item>
+        <item>ISIDRO FABELA</item>
+        <item>IXTAPALUCA</item>
+        <item>IXTAPAN DE LA SAL</item>
+        <item>IXTAPAN DEL ORO</item>
+        <item>IXTLAHUACA</item>
+        <item>XALATLACO</item>
+        <item>JALTENCO</item>
+        <item>JILOTEPEC</item>
+        <item>JILOTZINGO</item>
+        <item>JIQUIPILCO</item>
+        <item>JOCOTITLAN</item>
+        <item>JOQUICINGO</item>
+        <item>JUCHITEPEC</item>
+        <item>LERMA</item>
+        <item>MALINALCO</item>
+        <item>MELCHOR OCAMPO</item>
+        <item>METEPEC</item>
+        <item>MEXICALTZINGO</item>
+        <item>MORELOS</item>
+        <item>NAUCALPAN DE JUAREZ</item>
+        <item>NEZAHUALCOYOTL</item>
+        <item>NEXTLALPAN</item>
+        <item>NICOLAS ROMERO</item>
+        <item>NOPALTEPEC</item>
+        <item>OCOYOACAC</item>
+        <item>OCUILAN</item>
+        <item>EL ORO</item>
+        <item>OTUMBA</item>
+        <item>OTZOLOAPAN</item>
+        <item>OTZOLOTEPEC</item>
+        <item>OZUMBA</item>
+        <item>PAPALOTLA</item>
+        <item>LA PAZ</item>
+        <item>POLOTITLAN</item>
+        <item>RAYON</item>
+        <item>SAN ANTONIO LA ISLA</item>
+        <item>SAN FELIPE DEL PROGRESO</item>
+        <item>SAN MARTIN DE LAS PIRAMIDES</item>
+        <item>SAN MATEO ATENCO</item>
+        <item>SAN SIMON DE GUERRERO</item>
+        <item>SANTO TOMAS</item>
+        <item>SOYANIQUILPAN DE JUAREZ</item>
+        <item>SULTEPEC</item>
+        <item>TECAMAC</item>
+        <item>TEJUPILCO</item>
+        <item>TEMAMATLA</item>
+        <item>TEMASCALAPA</item>
+        <item>TEMASCALCINGO</item>
+        <item>TEMASCALTEPEC</item>
+        <item>TEMOAYA</item>
+        <item>TENANCINGO</item>
+        <item>TENANGO DEL AIRE</item>
+        <item>TENANGO DEL VALLE</item>
+        <item>TEOLOYUCAN</item>
+        <item>TEOTIHUACAN</item>
+        <item>TEPETLAOXTOC</item>
+        <item>TEPETLIXPA</item>
+        <item>TEPOTZOTLAN</item>
+        <item>TEQUIXQUIAC</item>
+        <item>TEXCALTITLAN</item>
+        <item>TEXCALYACAC</item>
+        <item>TEXCOCO</item>
+        <item>TEZOYUCA</item>
+        <item>TIANGUISTENCO</item>
+        <item>TIMILPAN</item>
+        <item>TLALMANALCO</item>
+        <item>TLALNEPANTLA DE BAZ</item>
+        <item>TLATLAYA</item>
+        <item>TOLUCA</item>
+        <item>TONATICO</item>
+        <item>TULTEPEC</item>
+        <item>TULTITLAN</item>
+        <item>VALLE DE BRAVO</item>
+        <item>VILLA DE ALLENDE</item>
+        <item>VILLA DEL CARBON</item>
+        <item>VILLA GUERRERO</item>
+        <item>VILLA VICTORIA</item>
+        <item>XONACATLAN</item>
+        <item>ZACAZONAPAN</item>
+        <item>ZACUALPAN</item>
+        <item>ZINACANTEPEC</item>
+        <item>ZUMPAHUACAN</item>
+        <item>ZUMPANGO</item>
+        <item>CUAUTITLAN IZCALLI</item>
+        <item>VALLE DE CHALCO SOLIDARIDAD</item>
+        <item>LUVIANOS</item>
+        <item>SAN JOSE DEL RINCON</item>
+        <item>TONANITLA</item>
+    </string-array>
+
+    <string-array name="municipios_GUANAJUATO">
+        <item>ABASOLO</item>
+        <item>ACAMBARO</item>
+        <item>SAN MIGUEL DE ALLENDE</item>
+        <item>APASEO EL ALTO</item>
+        <item>APASEO EL GRANDE</item>
+        <item>ATARJEA</item>
+        <item>CELAYA</item>
+        <item>MANUEL DOBLADO</item>
+        <item>COMONFORT</item>
+        <item>CORONEO</item>
+        <item>CORTAZAR</item>
+        <item>CUERAMARO</item>
+        <item>DOCTOR MORA</item>
+        <item>DOLORES HIDALGO CUNA DE LA INDEPENDENCIA NACIONAL</item>
+        <item>GUANAJUATO</item>
+        <item>HUANIMARO</item>
+        <item>IRAPUATO</item>
+        <item>JARAL DEL PROGRESO</item>
+        <item>JERECUARO</item>
+        <item>LEON</item>
+        <item>MOROLEON</item>
+        <item>OCAMPO</item>
+        <item>PENJAMO</item>
+        <item>PUEBLO NUEVO</item>
+        <item>PURISIMA DEL RINCON</item>
+        <item>ROMITA</item>
+        <item>SALAMANCA</item>
+        <item>SALVATIERRA</item>
+        <item>SAN DIEGO DE LA UNION</item>
+        <item>SAN FELIPE</item>
+        <item>SAN FRANCISCO DEL RINCON</item>
+        <item>SAN JOSE ITURBIDE</item>
+        <item>SAN LUIS DE LA PAZ</item>
+        <item>SANTA CATARINA</item>
+        <item>SANTA CRUZ DE JUVENTINO ROSAS</item>
+        <item>SANTIAGO MARAVATIO</item>
+        <item>SILAO DE LA VICTORIA</item>
+        <item>TARANDACUAO</item>
+        <item>TARIMORO</item>
+        <item>TIERRA BLANCA</item>
+        <item>URIANGATO</item>
+        <item>VALLE DE SANTIAGO</item>
+        <item>VICTORIA</item>
+        <item>VILLAGRAN</item>
+        <item>XICHU</item>
+        <item>YURIRIA</item>
+    </string-array>
+
+    <string-array name="municipios_GUERRERO">
+        <item>ACAPULCO DE JUAREZ</item>
+        <item>AHUACUOTZINGO</item>
+        <item>AJUCHITLAN DEL PROGRESO</item>
+        <item>ALCOZAUCA DE GUERRERO</item>
+        <item>ALPOYECA</item>
+        <item>APAXTLA</item>
+        <item>ARCELIA</item>
+        <item>ATENANGO DEL RIO</item>
+        <item>ATLAMAJALCINGO DEL MONTE</item>
+        <item>ATLIXTAC</item>
+        <item>ATOYAC DE ALVAREZ</item>
+        <item>AYUTLA DE LOS LIBRES</item>
+        <item>AZOYU</item>
+        <item>BENITO JUAREZ</item>
+        <item>BUENAVISTA DE CUELLAR</item>
+        <item>COAHUAYUTLA DE JOSE MARIA IZAZAGA</item>
+        <item>COCULA</item>
+        <item>COPALA</item>
+        <item>COPALILLO</item>
+        <item>COPANATOYAC</item>
+        <item>COYUCA DE BENITEZ</item>
+        <item>COYUCA DE CATALAN</item>
+        <item>CUAJINICUILAPA</item>
+        <item>CUALAC</item>
+        <item>CUAUTEPEC</item>
+        <item>CUETZALA DEL PROGRESO</item>
+        <item>CUTZAMALA DE PINZON</item>
+        <item>CHILAPA DE ALVAREZ</item>
+        <item>CHILPANCINGO DE LOS BRAVO</item>
+        <item>FLORENCIO VILLARREAL</item>
+        <item>GENERAL CANUTO A. NERI</item>
+        <item>GENERAL HELIODORO CASTILLO</item>
+        <item>HUAMUXTITLAN</item>
+        <item>HUITZUCO DE LOS FIGUEROA</item>
+        <item>IGUALA DE LA INDEPENDENCIA</item>
+        <item>IGUALAPA</item>
+        <item>IXCATEOPAN DE CUAUHTEMOC</item>
+        <item>ZIHUATANEJO DE AZUETA</item>
+        <item>JUAN R. ESCUDERO</item>
+        <item>LEONARDO BRAVO</item>
+        <item>MALINALTEPEC</item>
+        <item>MARTIR DE CUILAPAN</item>
+        <item>METLATONOC</item>
+        <item>MOCHITLAN</item>
+        <item>OLINALA</item>
+        <item>OMETEPEC</item>
+        <item>PEDRO ASCENCIO ALQUISIRAS</item>
+        <item>PETATLAN</item>
+        <item>PILCAYA</item>
+        <item>PUNGARABATO</item>
+        <item>QUECHULTENANGO</item>
+        <item>SAN LUIS ACATLAN</item>
+        <item>SAN MARCOS</item>
+        <item>SAN MIGUEL TOTOLAPAN</item>
+        <item>TAXCO DE ALARCON</item>
+        <item>TECOANAPA</item>
+        <item>TECPAN DE GALEANA</item>
+        <item>TELOLOAPAN</item>
+        <item>TEPECOACUILCO DE TRUJANO</item>
+        <item>TETIPAC</item>
+        <item>TIXTLA DE GUERRERO</item>
+        <item>TLACOACHISTLAHUACA</item>
+        <item>TLACOAPA</item>
+        <item>TLALCHAPA</item>
+        <item>TLALIXTAQUILLA DE MALDONADO</item>
+        <item>TLAPA DE COMONFORT</item>
+        <item>TLAPEHUALA</item>
+        <item>LA UNION DE ISIDORO MONTES DE OCA</item>
+        <item>XALPATLAHUAC</item>
+        <item>XOCHIHUEHUETLAN</item>
+        <item>XOCHISTLAHUACA</item>
+        <item>ZAPOTITLAN TABLAS</item>
+        <item>ZIRANDARO</item>
+        <item>ZITLALA</item>
+        <item>EDUARDO NERI</item>
+        <item>ACATEPEC</item>
+        <item>MARQUELIA</item>
+        <item>COCHOAPA EL GRANDE</item>
+        <item>JOSE JOAQUIN DE HERRERA</item>
+        <item>JUCHITAN</item>
+        <item>ILIATENCO</item>
+        <item>LAS VIGAS</item>
+        <item>NUU SAVI</item>
+        <item>SANTA CRUZ DEL RINCON</item>
+        <item>SAN NICOLAS</item>
+    </string-array>
+
+    <string-array name="municipios_HIDALGO">
+        <item>ACATLAN</item>
+        <item>ACAXOCHITLAN</item>
+        <item>ACTOPAN</item>
+        <item>AGUA BLANCA DE ITURBIDE</item>
+        <item>AJACUBA</item>
+        <item>ALFAJAYUCAN</item>
+        <item>ALMOLOYA</item>
+        <item>APAN</item>
+        <item>EL ARENAL</item>
+        <item>ATITALAQUIA</item>
+        <item>ATLAPEXCO</item>
+        <item>ATOTONILCO EL GRANDE</item>
+        <item>ATOTONILCO DE TULA</item>
+        <item>CALNALI</item>
+        <item>CARDONAL</item>
+        <item>CUAUTEPEC DE HINOJOSA</item>
+        <item>CHAPANTONGO</item>
+        <item>CHAPULHUACAN</item>
+        <item>CHILCUAUTLA</item>
+        <item>ELOXOCHITLAN</item>
+        <item>EMILIANO ZAPATA</item>
+        <item>EPAZOYUCAN</item>
+        <item>FRANCISCO I. MADERO</item>
+        <item>HUASCA DE OCAMPO</item>
+        <item>HUAUTLA</item>
+        <item>HUAZALINGO</item>
+        <item>HUEHUETLA</item>
+        <item>HUEJUTLA DE REYES</item>
+        <item>HUICHAPAN</item>
+        <item>IXMIQUILPAN</item>
+        <item>JACALA DE LEDEZMA</item>
+        <item>JALTOCAN</item>
+        <item>JUAREZ HIDALGO</item>
+        <item>LOLOTLA</item>
+        <item>METEPEC</item>
+        <item>SAN AGUSTIN METZQUITITLAN</item>
+        <item>METZTITLAN</item>
+        <item>MINERAL DEL CHICO</item>
+        <item>MINERAL DEL MONTE</item>
+        <item>LA MISION</item>
+        <item>MIXQUIAHUALA DE JUAREZ</item>
+        <item>MOLANGO DE ESCAMILLA</item>
+        <item>NICOLAS FLORES</item>
+        <item>NOPALA DE VILLAGRAN</item>
+        <item>OMITLAN DE JUAREZ</item>
+        <item>SAN FELIPE ORIZATLAN</item>
+        <item>PACULA</item>
+        <item>PACHUCA DE SOTO</item>
+        <item>PISAFLORES</item>
+        <item>PROGRESO DE OBREGON</item>
+        <item>MINERAL DE LA REFORMA</item>
+        <item>SAN AGUSTIN TLAXIACA</item>
+        <item>SAN BARTOLO TUTOTEPEC</item>
+        <item>SAN SALVADOR</item>
+        <item>SANTIAGO DE ANAYA</item>
+        <item>SANTIAGO TULANTEPEC DE LUGO GUERRERO</item>
+        <item>SINGUILUCAN</item>
+        <item>TASQUILLO</item>
+        <item>TECOZAUTLA</item>
+        <item>TENANGO DE DORIA</item>
+        <item>TEPEAPULCO</item>
+        <item>TEPEHUACAN DE GUERRERO</item>
+        <item>TEPEJI DEL RIO DE OCAMPO</item>
+        <item>TEPETITLAN</item>
+        <item>TETEPANGO</item>
+        <item>VILLA DE TEZONTEPEC</item>
+        <item>TEZONTEPEC DE ALDAMA</item>
+        <item>TIANGUISTENGO</item>
+        <item>TIZAYUCA</item>
+        <item>TLAHUELILPAN</item>
+        <item>TLAHUILTEPA</item>
+        <item>TLANALAPA</item>
+        <item>TLANCHINOL</item>
+        <item>TLAXCOAPAN</item>
+        <item>TOLCAYUCA</item>
+        <item>TULA DE ALLENDE</item>
+        <item>TULANCINGO DE BRAVO</item>
+        <item>XOCHIATIPAN</item>
+        <item>XOCHICOATLAN</item>
+        <item>YAHUALICA</item>
+        <item>ZACUALTIPAN DE ANGELES</item>
+        <item>ZAPOTLAN DE JUAREZ</item>
+        <item>ZEMPOALA</item>
+        <item>ZIMAPAN</item>
+    </string-array>
+
+    <string-array name="municipios_JALISCO">
+        <item>ACATIC</item>
+        <item>ACATLAN DE JUAREZ</item>
+        <item>AHUALULCO DE MERCADO</item>
+        <item>AMACUECA</item>
+        <item>AMATITAN</item>
+        <item>AMECA</item>
+        <item>SAN JUANITO DE ESCOBEDO</item>
+        <item>ARANDAS</item>
+        <item>EL ARENAL</item>
+        <item>ATEMAJAC DE BRIZUELA</item>
+        <item>ATENGO</item>
+        <item>ATENGUILLO</item>
+        <item>ATOTONILCO EL ALTO</item>
+        <item>ATOYAC</item>
+        <item>AUTLAN DE NAVARRO</item>
+        <item>AYOTLAN</item>
+        <item>AYUTLA</item>
+        <item>LA BARCA</item>
+        <item>BOLANOS</item>
+        <item>CABO CORRIENTES</item>
+        <item>CASIMIRO CASTILLO</item>
+        <item>CIHUATLAN</item>
+        <item>ZAPOTLAN EL GRANDE</item>
+        <item>COCULA</item>
+        <item>COLOTLAN</item>
+        <item>CONCEPCION DE BUENOS AIRES</item>
+        <item>CUAUTITLAN DE GARCIA BARRAGAN</item>
+        <item>CUAUTLA</item>
+        <item>CUQUIO</item>
+        <item>CHAPALA</item>
+        <item>CHIMALTITAN</item>
+        <item>CHIQUILISTLAN</item>
+        <item>DEGOLLADO</item>
+        <item>EJUTLA</item>
+        <item>ENCARNACION DE DIAZ</item>
+        <item>ETZATLAN</item>
+        <item>EL GRULLO</item>
+        <item>GUACHINANGO</item>
+        <item>GUADALAJARA</item>
+        <item>HOSTOTIPAQUILLO</item>
+        <item>HUEJUCAR</item>
+        <item>HUEJUQUILLA EL ALTO</item>
+        <item>LA HUERTA</item>
+        <item>IXTLAHUACAN DE LOS MEMBRILLOS</item>
+        <item>IXTLAHUACAN DEL RIO</item>
+        <item>JALOSTOTITLAN</item>
+        <item>JAMAY</item>
+        <item>JESUS MARIA</item>
+        <item>JILOTLAN DE LOS DOLORES</item>
+        <item>JOCOTEPEC</item>
+        <item>JUANACATLAN</item>
+        <item>JUCHITLAN</item>
+        <item>LAGOS DE MORENO</item>
+        <item>EL LIMON</item>
+        <item>MAGDALENA</item>
+        <item>SANTA MARIA DEL ORO</item>
+        <item>LA MANZANILLA DE LA PAZ</item>
+        <item>MASCOTA</item>
+        <item>MAZAMITLA</item>
+        <item>MEXTICACAN</item>
+        <item>MEZQUITIC</item>
+        <item>MIXTLAN</item>
+        <item>OCOTLAN</item>
+        <item>OJUELOS DE JALISCO</item>
+        <item>PIHUAMO</item>
+        <item>PONCITLAN</item>
+        <item>PUERTO VALLARTA</item>
+        <item>VILLA PURIFICACION</item>
+        <item>QUITUPAN</item>
+        <item>EL SALTO</item>
+        <item>SAN CRISTOBAL DE LA BARRANCA</item>
+        <item>SAN DIEGO DE ALEJANDRIA</item>
+        <item>SAN JUAN DE LOS LAGOS</item>
+        <item>SAN JULIAN</item>
+        <item>SAN MARCOS</item>
+        <item>SAN MARTIN DE BOLANOS</item>
+        <item>SAN MARTIN HIDALGO</item>
+        <item>SAN MIGUEL EL ALTO</item>
+        <item>GOMEZ FARIAS</item>
+        <item>SAN SEBASTIAN DEL OESTE</item>
+        <item>SANTA MARIA DE LOS ANGELES</item>
+        <item>SAYULA</item>
+        <item>TALA</item>
+        <item>TALPA DE ALLENDE</item>
+        <item>TAMAZULA DE GORDIANO</item>
+        <item>TAPALPA</item>
+        <item>TECALITLAN</item>
+        <item>TECHALUTA DE MONTENEGRO</item>
+        <item>TECOLOTLAN</item>
+        <item>TENAMAXTLAN</item>
+        <item>TEOCALTICHE</item>
+        <item>TEOCUITATLAN DE CORONA</item>
+        <item>TEPATITLAN DE MORELOS</item>
+        <item>TEQUILA</item>
+        <item>TEUCHITLAN</item>
+        <item>TIZAPAN EL ALTO</item>
+        <item>TLAJOMULCO DE ZUNIGA</item>
+        <item>SAN PEDRO TLAQUEPAQUE</item>
+        <item>TOLIMAN</item>
+        <item>TOMATLAN</item>
+        <item>TONALA</item>
+        <item>TONAYA</item>
+        <item>TONILA</item>
+        <item>TOTATICHE</item>
+        <item>TOTOTLAN</item>
+        <item>TUXCACUESCO</item>
+        <item>TUXCUECA</item>
+        <item>TUXPAN</item>
+        <item>UNION DE SAN ANTONIO</item>
+        <item>UNION DE TULA</item>
+        <item>VALLE DE GUADALUPE</item>
+        <item>VALLE DE JUAREZ</item>
+        <item>SAN GABRIEL</item>
+        <item>VILLA CORONA</item>
+        <item>VILLA GUERRERO</item>
+        <item>VILLA HIDALGO</item>
+        <item>CANADAS DE OBREGON</item>
+        <item>YAHUALICA DE GONZALEZ GALLO</item>
+        <item>ZACOALCO DE TORRES</item>
+        <item>ZAPOPAN</item>
+        <item>ZAPOTILTIC</item>
+        <item>ZAPOTITLAN DE VADILLO</item>
+        <item>ZAPOTLAN DEL REY</item>
+        <item>ZAPOTLANEJO</item>
+        <item>SAN IGNACIO CERRO GORDO</item>
+    </string-array>
+
+    <string-array name="municipios_MICHOACAN">
+        <item>ACUITZIO</item>
+        <item>AGUILILLA</item>
+        <item>ALVARO OBREGON</item>
+        <item>ANGAMACUTIRO</item>
+        <item>ANGANGUEO</item>
+        <item>APATZINGAN</item>
+        <item>APORO</item>
+        <item>AQUILA</item>
+        <item>ARIO</item>
+        <item>ARTEAGA</item>
+        <item>BRISENAS</item>
+        <item>BUENAVISTA</item>
+        <item>CARACUARO</item>
+        <item>COAHUAYANA</item>
+        <item>COALCOMAN DE VAZQUEZ PALLARES</item>
+        <item>COENEO</item>
+        <item>CONTEPEC</item>
+        <item>COPANDARO</item>
+        <item>COTIJA</item>
+        <item>CUITZEO</item>
+        <item>CHARAPAN</item>
+        <item>CHARO</item>
+        <item>CHAVINDA</item>
+        <item>CHERAN</item>
+        <item>CHILCHOTA</item>
+        <item>CHINICUILA</item>
+        <item>CHUCANDIRO</item>
+        <item>CHURINTZIO</item>
+        <item>CHURUMUCO</item>
+        <item>ECUANDUREO</item>
+        <item>EPITACIO HUERTA</item>
+        <item>ERONGARICUARO</item>
+        <item>GABRIEL ZAMORA</item>
+        <item>HIDALGO</item>
+        <item>LA HUACANA</item>
+        <item>HUANDACAREO</item>
+        <item>HUANIQUEO</item>
+        <item>HUETAMO</item>
+        <item>HUIRAMBA</item>
+        <item>INDAPARAPEO</item>
+        <item>IRIMBO</item>
+        <item>IXTLAN</item>
+        <item>JACONA</item>
+        <item>JIMENEZ</item>
+        <item>JIQUILPAN</item>
+        <item>JUAREZ</item>
+        <item>JUNGAPEO</item>
+        <item>LAGUNILLAS</item>
+        <item>MADERO</item>
+        <item>MARAVATIO</item>
+        <item>MARCOS CASTELLANOS</item>
+        <item>LAZARO CARDENAS</item>
+        <item>MORELIA</item>
+        <item>MORELOS</item>
+        <item>MUGICA</item>
+        <item>NAHUATZEN</item>
+        <item>NOCUPETARO</item>
+        <item>NUEVO PARANGARICUTIRO</item>
+        <item>NUEVO URECHO</item>
+        <item>NUMARAN</item>
+        <item>OCAMPO</item>
+        <item>PAJACUARAN</item>
+        <item>PANINDICUARO</item>
+        <item>PARACUARO</item>
+        <item>PARACHO</item>
+        <item>PATZCUARO</item>
+        <item>PENJAMILLO</item>
+        <item>PERIBAN</item>
+        <item>LA PIEDAD</item>
+        <item>PUREPERO</item>
+        <item>PURUANDIRO</item>
+        <item>QUERENDARO</item>
+        <item>QUIROGA</item>
+        <item>COJUMATLAN DE REGULES</item>
+        <item>LOS REYES</item>
+        <item>SAHUAYO</item>
+        <item>SAN LUCAS</item>
+        <item>SANTA ANA MAYA</item>
+        <item>SALVADOR ESCALANTE</item>
+        <item>SENGUIO</item>
+        <item>SUSUPUATO</item>
+        <item>TACAMBARO</item>
+        <item>TANCITARO</item>
+        <item>TANGAMANDAPIO</item>
+        <item>TANGANCICUARO</item>
+        <item>TANHUATO</item>
+        <item>TARETAN</item>
+        <item>TARIMBARO</item>
+        <item>TEPALCATEPEC</item>
+        <item>TINGAMBA</item>
+        <item>TINGUINDIN</item>
+        <item>TIQUICHEO DE NICOLAS ROMERO</item>
+        <item>TLALPUJAHUA</item>
+        <item>TLAZAZALCA</item>
+        <item>TOCUMBO</item>
+        <item>TUMBISCATIO</item>
+        <item>TURICATO</item>
+        <item>TUXPAN</item>
+        <item>TUZANTLA</item>
+        <item>TZINTZUNTZAN</item>
+        <item>TZITZIO</item>
+        <item>URUAPAN</item>
+        <item>VENUSTIANO CARRANZA</item>
+        <item>VILLAMAR</item>
+        <item>VISTA HERMOSA</item>
+        <item>YURECUARO</item>
+        <item>ZACAPU</item>
+        <item>ZAMORA</item>
+        <item>ZINAPARO</item>
+        <item>ZINAPECUARO</item>
+        <item>ZIRACUARETIRO</item>
+        <item>ZITACUARO</item>
+        <item>JOSE SIXTO VERDUZCO</item>
+    </string-array>
+
+    <string-array name="municipios_MORELOS">
+        <item>AMACUZAC</item>
+        <item>ATLATLAHUCAN</item>
+        <item>AXOCHIAPAN</item>
+        <item>AYALA</item>
+        <item>COATLAN DEL RIO</item>
+        <item>CUAUTLA</item>
+        <item>CUERNAVACA</item>
+        <item>EMILIANO ZAPATA</item>
+        <item>HUITZILAC</item>
+        <item>JANTETELCO</item>
+        <item>JIUTEPEC</item>
+        <item>JOJUTLA</item>
+        <item>JONACATEPEC DE LEANDRO VALLE</item>
+        <item>MAZATEPEC</item>
+        <item>MIACATLAN</item>
+        <item>OCUITUCO</item>
+        <item>PUENTE DE IXTLA</item>
+        <item>TEMIXCO</item>
+        <item>TEPALCINGO</item>
+        <item>TEPOZTLAN</item>
+        <item>TETECALA</item>
+        <item>TETELA DEL VOLCAN</item>
+        <item>TLALNEPANTLA</item>
+        <item>TLALTIZAPAN DE ZAPATA</item>
+        <item>TLAQUILTENANGO</item>
+        <item>TLAYACAPAN</item>
+        <item>TOTOLAPAN</item>
+        <item>XOCHITEPEC</item>
+        <item>YAUTEPEC</item>
+        <item>YECAPIXTLA</item>
+        <item>ZACATEPEC</item>
+        <item>ZACUALPAN DE AMILPAS</item>
+        <item>TEMOAC</item>
+        <item>COATETELCO</item>
+        <item>XOXOCOTLA</item>
+        <item>HUEYAPAN</item>
+    </string-array>
+
+    <string-array name="municipios_NAYARIT">
+        <item>ACAPONETA</item>
+        <item>AHUACATLAN</item>
+        <item>AMATLAN DE CANAS</item>
+        <item>COMPOSTELA</item>
+        <item>HUAJICORI</item>
+        <item>IXTLAN DEL RIO</item>
+        <item>JALA</item>
+        <item>XALISCO</item>
+        <item>DEL NAYAR</item>
+        <item>ROSAMORADA</item>
+        <item>RUIZ</item>
+        <item>SAN BLAS</item>
+        <item>SAN PEDRO LAGUNILLAS</item>
+        <item>SANTA MARIA DEL ORO</item>
+        <item>SANTIAGO IXCUINTLA</item>
+        <item>TECUALA</item>
+        <item>TEPIC</item>
+        <item>TUXPAN</item>
+        <item>LA YESCA</item>
+        <item>BAHIA DE BANDERAS</item>
+    </string-array>
+
+    <string-array name="municipios_NUEVO_LEON">
+        <item>ABASOLO</item>
+        <item>AGUALEGUAS</item>
+        <item>LOS ALDAMAS</item>
+        <item>ALLENDE</item>
+        <item>ANAHUAC</item>
+        <item>APODACA</item>
+        <item>ARAMBERRI</item>
+        <item>BUSTAMANTE</item>
+        <item>CADEREYTA JIMENEZ</item>
+        <item>EL CARMEN</item>
+        <item>CERRALVO</item>
+        <item>CIENEGA DE FLORES</item>
+        <item>CHINA</item>
+        <item>DOCTOR ARROYO</item>
+        <item>DOCTOR COSS</item>
+        <item>DOCTOR GONZALEZ</item>
+        <item>GALEANA</item>
+        <item>GARCIA</item>
+        <item>SAN PEDRO GARZA GARCIA</item>
+        <item>GENERAL BRAVO</item>
+        <item>GENERAL ESCOBEDO</item>
+        <item>GENERAL TERAN</item>
+        <item>GENERAL TREVIÑO</item>
+        <item>GENERAL ZARAGOZA</item>
+        <item>GENERAL ZUAZUA</item>
+        <item>GUADALUPE</item>
+        <item>LOS HERRERAS</item>
+        <item>HIGUERAS</item>
+        <item>HUALAHUISES</item>
+        <item>ITURBIDE</item>
+        <item>JUAREZ</item>
+        <item>LAMPAZOS DE NARANJO</item>
+        <item>LINARES</item>
+        <item>MARIN</item>
+        <item>MELCHOR OCAMPO</item>
+        <item>MIER Y NORIEGA</item>
+        <item>MINA</item>
+        <item>MONTEMORELOS</item>
+        <item>MONTERREY</item>
+        <item>PARAS</item>
+        <item>PESQUERIA</item>
+        <item>LOS RAMONES</item>
+        <item>RAYONES</item>
+        <item>SABINAS HIDALGO</item>
+        <item>SALINAS VICTORIA</item>
+        <item>SAN NICOLAS DE LOS GARZA</item>
+        <item>HIDALGO</item>
+        <item>SANTA CATARINA</item>
+        <item>SANTIAGO</item>
+        <item>VALLECILLO</item>
+        <item>VILLALDAMA</item>
+    </string-array>
+
+    <string-array name="municipios_OAXACA">
+        <item>ABEJONES</item>
+        <item>ACATLAN DE PEREZ FIGUEROA</item>
+        <item>ASUNCION CACALOTEPEC</item>
+        <item>ASUNCION CUYOTEPEJI</item>
+        <item>ASUNCION IXTALTEPEC</item>
+        <item>ASUNCION NOCHIXTLAN</item>
+        <item>ASUNCION OCOTLAN</item>
+        <item>ASUNCION TLACOLULITA</item>
+        <item>AYOTZINTEPEC</item>
+        <item>EL BARRIO DE LA SOLEDAD</item>
+        <item>CALIHUALA</item>
+        <item>CANDELARIA LOXICHA</item>
+        <item>CIENEGA DE ZIMATLAN</item>
+        <item>CIUDAD IXTEPEC</item>
+        <item>COATECAS ALTAS</item>
+        <item>COICOYAN DE LAS FLORES</item>
+        <item>LA COMPANIA</item>
+        <item>CONCEPCION BUENAVISTA</item>
+        <item>CONCEPCION PAPALO</item>
+        <item>CONSTANCIA DEL ROSARIO</item>
+        <item>COSOLAPA</item>
+        <item>COSOLTEPEC</item>
+        <item>CUILAPAM DE GUERRERO</item>
+        <item>CUYAMECALCO VILLA DE ZARAGOZA</item>
+        <item>CHAHUITES</item>
+        <item>CHALCATONGO DE HIDALGO</item>
+        <item>CHIQUIHUITLAN DE BENITO JUAREZ</item>
+        <item>HEROICA CIUDAD DE EJUTLA DE CRESPO</item>
+        <item>ELOXOCHITLAN DE FLORES MAGON</item>
+        <item>EL ESPINAL</item>
+        <item>TAMAZULAPAM DEL ESPIRITU SANTO</item>
+        <item>FRESNILLO DE TRUJANO</item>
+        <item>GUADALUPE ETLA</item>
+        <item>GUADALUPE DE RAMIREZ</item>
+        <item>GUELATAO DE JUAREZ</item>
+        <item>GUEVEA DE HUMBOLDT</item>
+        <item>MESONES HIDALGO</item>
+        <item>VILLA HIDALGO</item>
+        <item>HEROICA CIUDAD DE HUAJUAPAN DE LEON</item>
+        <item>HUAUTEPEC</item>
+        <item>HUAUTLA DE JIMENEZ</item>
+        <item>IXTLAN DE JUAREZ</item>
+        <item>JUCHITAN DE ZARAGOZA</item>
+        <item>LOMA BONITA</item>
+        <item>MAGDALENA APASCO</item>
+        <item>MAGDALENA JALTEPEC</item>
+        <item>SANTA MAGDALENA JICOTLAN</item>
+        <item>MAGDALENA MIXTEPEC</item>
+        <item>MAGDALENA OCOTLAN</item>
+        <item>MAGDALENA PENASCO</item>
+        <item>MAGDALENA TEITIPAC</item>
+        <item>MAGDALENA TEQUISISTLAN</item>
+        <item>MAGDALENA TLACOTEPEC</item>
+        <item>MAGDALENA ZAHUATLAN</item>
+        <item>MARISCALA DE JUAREZ</item>
+        <item>MARTIRES DE TACUBAYA</item>
+        <item>MATIAS ROMERO AVENDANO</item>
+        <item>MAZATLAN VILLA DE FLORES</item>
+        <item>MIAHUATLAN DE PORFIRIO DIAZ</item>
+        <item>MIXISTLAN DE LA REFORMA</item>
+        <item>MONJAS</item>
+        <item>NATIVIDAD</item>
+        <item>NAZARENO ETLA</item>
+        <item>NEJAPA DE MADERO</item>
+        <item>IXPANTEPEC NIEVES</item>
+        <item>SANTIAGO NILTEPEC</item>
+        <item>OAXACA DE JUAREZ</item>
+        <item>OCOTLAN DE MORELOS</item>
+        <item>LA PE</item>
+        <item>PINOTEPA DE DON LUIS</item>
+        <item>PLUMA HIDALGO</item>
+        <item>SAN JOSE DEL PROGRESO</item>
+        <item>PUTLA VILLA DE GUERRERO</item>
+        <item>SANTA CATARINA QUIOQUITANI</item>
+        <item>REFORMA DE PINEDA</item>
+        <item>LA REFORMA</item>
+        <item>REYES ETLA</item>
+        <item>ROJAS DE CUAUHTEMOC</item>
+        <item>SALINA CRUZ</item>
+        <item>SAN AGUSTIN AMATENGO</item>
+        <item>SAN AGUSTIN ATENANGO</item>
+        <item>SAN AGUSTIN CHAYUCO</item>
+        <item>SAN AGUSTIN DE LAS JUNTAS</item>
+        <item>SAN AGUSTIN ETLA</item>
+        <item>SAN AGUSTIN LOXICHA</item>
+        <item>SAN AGUSTIN TLACOTEPEC</item>
+        <item>SAN AGUSTIN YATARENI</item>
+        <item>SAN ANDRES CABECERA NUEVA</item>
+        <item>SAN ANDRES DINICUITI</item>
+        <item>SAN ANDRES HUAXPALTEPEC</item>
+        <item>SAN ANDRES HUAYAPAM</item>
+        <item>SAN ANDRES IXTLAHUACA</item>
+        <item>SAN ANDRES LAGUNAS</item>
+        <item>SAN ANDRES NUXINO</item>
+        <item>SAN ANDRES PAXTLAN</item>
+        <item>SAN ANDRES SINAXTLA</item>
+        <item>SAN ANDRES SOLAGA</item>
+        <item>SAN ANDRES TEOTILALPAM</item>
+        <item>SAN ANDRES TEPETLAPA</item>
+        <item>SAN ANDRES YAA</item>
+        <item>SAN ANDRES ZABACHE</item>
+        <item>SAN ANDRES ZAUTLA</item>
+        <item>SAN ANTONINO CASTILLO VELASCO</item>
+        <item>SAN ANTONINO EL ALTO</item>
+        <item>SAN ANTONINO MONTE VERDE</item>
+        <item>SAN ANTONIO ACUTLA</item>
+        <item>SAN ANTONIO DE LA CAL</item>
+        <item>SAN ANTONIO HUITEPEC</item>
+        <item>SAN ANTONIO NANAHUATIPAM</item>
+        <item>SAN ANTONIO SINICAHUA</item>
+        <item>SAN ANTONIO TEPETLAPA</item>
+        <item>SAN BALTAZAR CHICHICAPAM</item>
+        <item>SAN BALTAZAR LOXICHA</item>
+        <item>SAN BALTAZAR YATZACHI EL BAJO</item>
+        <item>SAN BARTOLO COYOTEPEC</item>
+        <item>SAN BARTOLOME AYAUTLA</item>
+        <item>SAN BARTOLOME LOXICHA</item>
+        <item>SAN BARTOLOME QUIALANA</item>
+        <item>SAN BARTOLOME YUCUANE</item>
+        <item>SAN BARTOLOME ZOOGOCHO</item>
+        <item>SAN BARTOLO SOYALTEPEC</item>
+        <item>SAN BARTOLO YAUTEPEC</item>
+        <item>SAN BERNARDO MIXTEPEC</item>
+        <item>SAN BLAS ATEMPA</item>
+        <item>SAN CARLOS YAUTEPEC</item>
+        <item>SAN CRISTOBAL AMATLAN</item>
+        <item>SAN CRISTOBAL AMOLTEPEC</item>
+        <item>SAN CRISTOBAL LACHIRIOAG</item>
+        <item>SAN CRISTOBAL SUCHIXTLAHUACA</item>
+        <item>SAN DIONISIO DEL MAR</item>
+        <item>SAN DIONISIO OCOTEPEC</item>
+        <item>SAN DIONISIO OCOTLAN</item>
+        <item>SAN ESTEBAN ATATLAHUCA</item>
+        <item>SAN FELIPE JALAPA DE DIAZ</item>
+        <item>SAN FELIPE TEJALAPAM</item>
+        <item>SAN FELIPE USILA</item>
+        <item>SAN FRANCISCO CAHUACUA</item>
+        <item>SAN FRANCISCO CAJONOS</item>
+        <item>SAN FRANCISCO CHAPULAPA</item>
+        <item>SAN FRANCISCO CHINDUA</item>
+        <item>SAN FRANCISCO DEL MAR</item>
+        <item>SAN FRANCISCO HUEHUETLAN</item>
+        <item>SAN FRANCISCO IXHUATAN</item>
+        <item>SAN FRANCISCO JALTEPETONGO</item>
+        <item>SAN FRANCISCO LACHIGOLO</item>
+        <item>SAN FRANCISCO LOGUECHE</item>
+        <item>SAN FRANCISCO NUXANO</item>
+        <item>SAN FRANCISCO OZOLOTEPEC</item>
+        <item>SAN FRANCISCO SOLA</item>
+        <item>SAN FRANCISCO TELIXTLAHUACA</item>
+        <item>SAN FRANCISCO TEOPAN</item>
+        <item>SAN FRANCISCO TLAPANCINGO</item>
+        <item>SAN GABRIEL MIXTEPEC</item>
+        <item>SAN ILDEFONSO AMATLAN</item>
+        <item>SAN ILDEFONSO SOLA</item>
+        <item>SAN ILDEFONSO VILLA ALTA</item>
+        <item>SAN JACINTO AMILPAS</item>
+        <item>SAN JACINTO TLACOTEPEC</item>
+        <item>SAN JERONIMO COATLAN</item>
+        <item>SAN JERONIMO SILACAYOAPILLA</item>
+        <item>SAN JERONIMO SOSOLA</item>
+        <item>SAN JERONIMO TAVICHE</item>
+        <item>SAN JERONIMO TECOATL</item>
+        <item>SAN JORGE NUCHITA</item>
+        <item>SAN JOSE AYUQUILA</item>
+        <item>SAN JOSE CHILTEPEC</item>
+        <item>SAN JOSE DEL PEINADO</item>
+        <item>SAN JOSE ESTANCIA GRANDE</item>
+        <item>SAN JOSE INDEPENDENCIA</item>
+        <item>SAN JOSE LACHIGUIRI</item>
+        <item>SAN JOSE TENANGO</item>
+        <item>SAN JUAN ACHIUTLA</item>
+        <item>SAN JUAN ATEPEC</item>
+        <item>AN JUAN BAUTISTA ATATLAHUCA</item>
+        <item>SAN JUAN BAUTISTA COIXTLAHUACA</item>
+        <item>SAN JUAN BAUTISTA CUICATLAN</item>
+        <item>SAN JUAN BAUTISTA GUELACHE</item>
+        <item>SAN JUAN BAUTISTA JAYACATLAN</item>
+        <item>SAN JUAN BAUTISTA LO DE SOTO</item>
+        <item>SAN JUAN BAUTISTA SUCHITEPEC</item>
+        <item>SAN JUAN BAUTISTA TLACOATZINTEPEC</item>
+        <item>SAN JUAN BAUTISTA TLACHICHILCO</item>
+        <item>SAN JUAN BAUTISTA TUXTEPEC</item>
+        <item>SAN JUAN CACAHUATEPEC</item>
+        <item>SAN JUAN CIENEGUILLA</item>
+        <item>SAN JUAN COATZOSPAM</item>
+        <item>SAN JUAN COLORADO</item>
+        <item>SAN JUAN COMALTEPEC</item>
+        <item>SAN JUAN COTZOCON</item>
+        <item>SAN JUAN CHICOMEZUCHIL</item>
+        <item>SAN JUAN CHILATECA</item>
+        <item>SAN JUAN DEL ESTADO</item>
+        <item>SAN JUAN DEL RIO</item>
+        <item>SAN JUAN DIUXI</item>
+        <item>SAN JUAN EVANGELISTA ANALCO</item>
+        <item>SAN JUAN GUELAVIA</item>
+        <item>SAN JUAN GUICHICOVI</item>
+        <item>SAN JUAN IHUALTEPEC</item>
+        <item>SAN JUAN JUQUILA MIXES</item>
+        <item>SAN JUAN JUQUILA VIJANOS</item>
+        <item>SAN JUAN LACHAO</item>
+        <item>SAN JUAN LACHIGALLA</item>
+        <item>SAN JUAN LAJARCIA</item>
+        <item>SAN JUAN LALANA</item>
+        <item>SAN JUAN DE LOS CUES</item>
+        <item>SAN JUAN MAZATLAN</item>
+        <item>SAN JUAN MIXTEPEC DISTRITO 08</item>
+        <item>SAN JUAN MIXTEPEC DISTRITO 26</item>
+        <item>SAN JUAN OZOLOTEPEC</item>
+        <item>SAN JUAN PETLAPA</item>
+        <item>SAN JUAN QUIAHIJE</item>
+        <item>SAN JUAN QUIOTEPEC</item>
+        <item>SAN JUAN SAYULTEPEC</item>
+        <item>SAN JUAN TABAA</item>
+        <item>SAN JUAN TAMAZOLA</item>
+        <item>SAN JUAN TEITA</item>
+        <item>SAN JUAN TEITIPAC</item>
+        <item>SAN JUAN TEPEUXILA</item>
+        <item>SAN JUAN TEPOSCOLULA</item>
+        <item>SAN JUAN YAEE</item>
+        <item>SAN JUAN YATZONA</item>
+        <item>SAN JUAN YUCUITA</item>
+        <item>SAN LORENZO</item>
+        <item>SAN LORENZO ALBARRADAS</item>
+        <item>SAN LORENZO CACAOTEPEC</item>
+        <item>SAN LORENZO CUAUNECUILTITLA</item>
+        <item>SAN LORENZO TEXMELUCAN</item>
+        <item>SAN LORENZO VICTORIA</item>
+        <item>SAN LUCAS CAMOTLAN</item>
+        <item>SAN LUCAS OJITLAN</item>
+        <item>SAN LUCAS QUIAVINI</item>
+        <item>SAN LUCAS ZOQUIAPAM</item>
+        <item>SAN LUIS AMATLAN</item>
+        <item>SAN MARCIAL OZOLOTEPEC</item>
+        <item>SAN MARCOS ARTEAGA</item>
+        <item>SAN MARTIN DE LOS CANSECOS</item>
+        <item>SAN MARTIN HUAMELULPAM</item>
+        <item>SAN MARTIN ITUNYOSO</item>
+        <item>SAN MARTIN LACHILA</item>
+        <item>SAN MARTIN PERAS</item>
+        <item>SAN MARTIN TILCAJETE</item>
+        <item>SAN MARTIN TOXPALAN</item>
+        <item>SAN MARTIN ZACATEPEC</item>
+        <item>SAN MATEO CAJONOS</item>
+        <item>SAN MATEO DEL MAR</item>
+        <item>SAN MATEO YOLAOXACA</item>
+        <item>SAN MATEO ETLATONGO</item>
+        <item>SAN MATEO NEJAPAM</item>
+        <item>SAN MATEO PEÑASCO</item>
+        <item>SAN MATEO PINA</item>
+        <item>SAN MATEO RIO HONDO</item>
+        <item>SAN MATEO SINDIHUI</item>
+        <item>SAN MATEO TLAZOYALTEPEC</item>
+        <item>SAN MATEO YOLOXOCHITLAN</item>
+        <item>SAN MELCHOR BETAZA</item>
+        <item>SAN MIGUEL ACHIUTLA</item>
+        <item>SAN MIGUEL AHUEHUETITLAN</item>
+        <item>SAN MIGUEL ALOAPAM</item>
+        <item>SAN MIGUEL AMATITLAN</item>
+        <item>SAN MIGUEL AMATLAN</item>
+        <item>SAN MIGUEL COATLAN</item>
+        <item>SAN MIGUEL CHICAHUA</item>
+        <item>SAN MIGUEL CHIMALAPA</item>
+        <item>SAN MIGUEL DEL PUERTO</item>
+        <item>SAN MIGUEL DEL RIO</item>
+        <item>SAN MIGUEL EJUTLA</item>
+        <item>SAN MIGUEL EL GRANDE</item>
+        <item>SAN MIGUEL HUAUTLA</item>
+        <item>SAN MIGUEL MIXTEPEC</item>
+        <item>SAN MIGUEL PANIXTLAHUACA</item>
+        <item>SAN MIGUEL PERAS</item>
+        <item>SAN MIGUEL PIEDRAS</item>
+        <item>SAN MIGUEL QUETZALTEPEC</item>
+        <item>SAN MIGUEL SANTA FLOR</item>
+        <item>SAN MIGUEL SOYALTEPEC</item>
+        <item>SAN MIGUEL SUCHIXTEPEC</item>
+        <item>SAN MIGUEL TECOMATLAN</item>
+        <item>SAN MIGUEL TENANGO</item>
+        <item>SAN MIGUEL TEQUIXTEPEC</item>
+        <item>SAN MIGUEL TILQUIAPAM</item>
+        <item>SAN MIGUEL TLACAMAMA</item>
+        <item>SAN MIGUEL TLACOTEPEC</item>
+        <item>SAN MIGUEL TULANCINGO</item>
+        <item>SAN MIGUEL YOTAO</item>
+        <item>SAN NICOLAS</item>
+        <item>SAN NICOLAS HIDALGO</item>
+        <item>SAN PABLO COATLAN</item>
+        <item>SAN PABLO CUATRO VENADOS</item>
+        <item>SAN PABLO HUIXTEPEC</item>
+        <item>SAN PABLO MACUILTIANGUIS</item>
+        <item>SAN PABLO TIJALTEPEC</item>
+        <item>SAN PABLO VILLA DE MITLA</item>
+        <item>SAN PABLO YAGANIZA</item>
+        <item>SAN PEDRO AMUZGOS</item>
+        <item>SAN PEDRO APOSTOL</item>
+        <item>SAN PEDRO ATOYAC</item>
+        <item>SAN PEDRO CAJONOS</item>
+        <item>SAN PEDRO COMITANCILLO</item>
+        <item>SAN PEDRO COXCALTEPEC CANTAROS</item>
+        <item>SAN PEDRO EL ALTO</item>
+        <item>SAN PEDRO HUAMELULA</item>
+        <item>SAN PEDRO HUILOTEPEC</item>
+        <item>SAN PEDRO IXCATLAN</item>
+        <item>SAN PEDRO IXTLAHUACA</item>
+        <item>SAN PEDRO JALTEPETONGO</item>
+        <item>SAN PEDRO JICAYAN</item>
+        <item>SAN PEDRO JUCHATENGO</item>
+        <item>SAN PEDRO MARTIR</item>
+        <item>SAN PEDRO MARTIR QUIECHAPA</item>
+        <item>SAN PEDRO MARTIR YUCUXACO</item>
+        <item>SAN PEDRO MIXTEPEC</item>
+        <item>SAN PEDRO MIXTEPEC DISTR 26</item>
+        <item>SAN PEDRO MOLINOS</item>
+        <item>SAN PEDRO NOPALA</item>
+        <item>SAN PEDRO OCOPETATILLO</item>
+        <item>SAN PEDRO OCOTEPEC</item>
+        <item>SAN PEDRO POCHUTLA</item>
+        <item>SAN PEDRO QUIATONI</item>
+        <item>SAN PEDRO SOCHIAPAM</item>
+        <item>SAN PEDRO TAPANATEPEC</item>
+        <item>SAN PEDRO TAVICHE</item>
+        <item>SAN PEDRO TEUZITLAN</item>
+        <item>SAN PEDRO TIDA</item>
+        <item>SAN PEDRO TOPILTEPEC</item>
+        <item>SAN PEDRO TOTOLAPAM</item>
+        <item>SAN PEDRO YANERI</item>
+        <item>SAN PEDRO YUCUNAMA</item>
+        <item>SAN RAYMUNDO JALPAN</item>
+        <item>SAN SEBASTIAN ABASOLO</item>
+        <item>SAN SEBASTIAN COATLAN</item>
+        <item>SAN SEBASTIAN IXCAPA</item>
+        <item>SAN SEBASTIAN NICANANDUTA</item>
+        <item>SAN SEBASTIAN RIO HONDO</item>
+        <item>SAN SEBASTIAN TECOMAXTLAHUACA</item>
+        <item>SAN SEBASTIAN TUTLA</item>
+        <item>SAN SIMON ALMOLONGAS</item>
+        <item>SAN SIMON ZAHUATLAN</item>
+        <item>SAN VICENTE COATLAN</item>
+        <item>SAN VICENTE LACHIXIO</item>
+        <item>SAN VICENTE NUÑU</item>
+        <item>SANTA ANA</item>
+        <item>SANTA ANA ATEIXTLAHUACA</item>
+        <item>SANTA ANA CUAUHTEMOC</item>
+        <item>SANTA ANA DEL VALLE</item>
+        <item>SANTA ANA TAVELA</item>
+        <item>SANTA ANA TLAPACOYAN</item>
+        <item>SANTA ANA YARENI</item>
+        <item>SANTA ANA ZEGACHE</item>
+        <item>SANTA CATALINA QUIERI</item>
+        <item>SANTA CATARINA CUIXTLA</item>
+        <item>SANTA CATARINA IXTEPEJI</item>
+        <item>SANTA CATARINA JUQUILA</item>
+        <item>SANTA CATARINA LACHATAO</item>
+        <item>SANTA CATARINA LOXICHA</item>
+        <item>SANTA CATARINA MECHOACAN</item>
+        <item>SANTA CATARINA MINAS</item>
+        <item>SANTA CATARINA QUIANE</item>
+        <item>SANTA CATARINA TAYATA</item>
+        <item>SANTA CATARINA TICUA</item>
+        <item>SANTA CATARINA YOSONOTU</item>
+        <item>SANTA CATARINA ZAPOQUILA</item>
+        <item>SANTA CRUZ ACATEPEC</item>
+        <item>SANTA CRUZ AMILPAS</item>
+        <item>SANTA CRUZ DE BRAVO</item>
+        <item>SANTA CRUZ ITUNDUJIA</item>
+        <item>SANTA CRUZ MIXTEPEC</item>
+        <item>SANTA CRUZ NUNDACO</item>
+        <item>SANTA CRUZ PAPALUTLA</item>
+        <item>SANTA CRUZ TACACHE DE MINA</item>
+        <item>SANTA CRUZ TACAHUA</item>
+        <item>SANTA CRUZ TAYATA</item>
+        <item>SANTA CRUZ XITLA</item>
+        <item>SANTA CRUZ XOXOCOTLAN</item>
+        <item>SANTA CRUZ ZENZONTEPEC</item>
+        <item>SANTA GERTRUDIS</item>
+        <item>SANTA INES DEL MONTE</item>
+        <item>SANTA INES YATZECHE</item>
+        <item>SANTA LUCIA DEL CAMINO</item>
+        <item>SANTA LUCIA MIAHUATLAN</item>
+        <item>SANTA LUCIA MONTEVERDE</item>
+        <item>SANTA LUCIA OCOTLAN</item>
+        <item>SANTA MAGDALENA JICOTLAN</item>
+        <item>SANTA MARIA ALOTEPEC</item>
+        <item>SANTA MARIA APAZCO</item>
+        <item>SANTA MARIA ATZOMPA</item>
+        <item>SANTA MARIA CAMOTLAN</item>
+        <item>SANTA MARIA CHACHOAPAM</item>
+        <item>SANTA MARIA CHILCHOTLA</item>
+        <item>SANTA MARIA CHIMALAPA</item>
+        <item>SANTA MARIA COLOTEPEC</item>
+        <item>SANTA MARIA CORTIJO</item>
+        <item>SANTA MARIA COYOTEPEC</item>
+        <item>SANTA MARIA DEL ROSARIO</item>
+        <item>SANTA MARIA DEL TULE</item>
+        <item>SANTA MARIA ECATEPEC</item>
+        <item>SANTA MARIA GUELACE</item>
+        <item>SANTA MARIA GUIENAGATI</item>
+        <item>SANTA MARIA HUATULCO</item>
+        <item>SANTA MARIA HUAZOLOTLAN</item>
+        <item>SANTA MARIA IPALAPA</item>
+        <item>SANTA MARIA IXCATLAN</item>
+        <item>SANTA MARIA JACATEPEC</item>
+        <item>SANTA MARIA JALAPA DEL MARQUES</item>
+        <item>SANTA MARIA JALTIANGUIS</item>
+        <item>SANTA MARIA LACHIXIO</item>
+        <item>SANTA MARIA MIXTEQUILLA</item>
+        <item>SANTA MARIA NATIVITAS</item>
+        <item>SANTA MARIA NDUAYACO</item>
+        <item>SANTA MARIA OZOLOTEPEC</item>
+        <item>SANTA MARIA PAPALO</item>
+        <item>SANTA MARIA PEÑOLES</item>
+        <item>SANTA MARIA PETAPA</item>
+        <item>SANTA MARIA QUIEGOLANI</item>
+        <item>SANTA MARIA SOLA</item>
+        <item>SANTA MARIA TATALTEPEC</item>
+        <item>SANTA MARIA TECOMAVACA</item>
+        <item>SANTA MARIA TEMAXCALAPA</item>
+        <item>SANTA MARIA TEMAXCALTEPEC</item>
+        <item>SANTA MARIA TEOPOXCO</item>
+        <item>SANTA MARIA TEPANTLALI</item>
+        <item>SANTA MARIA TEXCATITLAN</item>
+        <item>SANTA MARIA TLAHUITOLTEPEC</item>
+        <item>SANTA MARIA TLALIXTAC</item>
+        <item>SANTA MARIA TONAMECA</item>
+        <item>SANTA MARIA TOTOLAPILLA</item>
+        <item>SANTA MARIA XADANI</item>
+        <item>SANTA MARIA YALINA</item>
+        <item>SANTA MARIA YAVESIA</item>
+        <item>SANTA MARIA YOLOTEPEC</item>
+        <item>SANTA MARIA YOSOYUA</item>
+        <item>SANTA MARIA YUCUHITI</item>
+        <item>SANTA MARIA ZACATEPEC</item>
+        <item>SANTA MARIA ZANIZA</item>
+        <item>SANTA MARIA ZOQUITLAN</item>
+        <item>SANTIAGO AMOLTEPEC</item>
+        <item>SANTIAGO APOALA</item>
+        <item>SANTIAGO APOSTOL</item>
+        <item>SANTIAGO ASTATA</item>
+        <item>SANTIAGO ATITLAN</item>
+        <item>SANTIAGO AYUQUILILLA</item>
+        <item>SANTIAGO CACALOXTEPEC</item>
+        <item>SANTIAGO CAMOTLAN</item>
+        <item>SANTIAGO COMALTEPEC</item>
+        <item>VILLA DE SANTIAGO CHAZUMBA</item>
+        <item>SANTIAGO CHOAPAM</item>
+        <item>SANTIAGO DEL RIO</item>
+        <item>SANTIAGO HUAJOLOTITLAN</item>
+        <item>SANTIAGO HUAUCLILLA</item>
+        <item>SANTIAGO IHUITLAN PLUMAS</item>
+        <item>SANTIAGO IXCUINTPEC</item>
+        <item>SANTIAGO IXTAYUTLA</item>
+        <item>SANTIAGO JAMILTEPEC</item>
+        <item>SANTIAGO JOCOTEPEC</item>
+        <item>SANTIAGO JUXLAHUACA</item>
+        <item>SANTIAGO LACHIGUIRI</item>
+        <item>SANTIAGO LALOPA</item>
+        <item>SANTIAGO LAOLLAGA</item>
+        <item>SANTIAGO LAXOPA</item>
+        <item>SANTIAGO LLANO GRANDE</item>
+        <item>SANTIAGO MATATLAN</item>
+        <item>SANTIAGO MILTEPEC</item>
+        <item>SANTIAGO MINAS</item>
+        <item>SANTIAGO NACALTEPEC</item>
+        <item>SANTIAGO NEJAPILLA</item>
+        <item>SANTIAGO NUNDICHE</item>
+        <item>SANTIAGO NUYOO</item>
+        <item>SANTIAGO PINOTEPA NACIONAL</item>
+        <item>SANTIAGO SUCHILQUITONGO</item>
+        <item>SANTIAGO TAMAZOLA</item>
+        <item>SANTIAGO TAPEXTLA</item>
+        <item>VILLA TEJUPAM DE LA UNION</item>
+        <item>SANTIAGO TENANGO</item>
+        <item>SANTIAGO TEPETLAPA</item>
+        <item>SANTIAGO TETEPEC</item>
+        <item>SANTIAGO TEXCALCINGO</item>
+        <item>SANTIAGO TEXTITLAN</item>
+        <item>SANTIAGO TILANTONGO</item>
+        <item>SANTIAGO TILLO</item>
+        <item>SANTIAGO TLAZOYALTEPEC</item>
+        <item>SANTIAGO XANICA</item>
+        <item>SANTIAGO XIACUI</item>
+        <item>SANTIAGO YAITEPEC</item>
+        <item>SANTIAGO YAVEO</item>
+        <item>SANTIAGO YOLOMECATL</item>
+        <item>SANTIAGO YOSONDUA</item>
+        <item>SANTIAGO YUCUYACHI</item>
+        <item>SANTIAGO ZACATEPEC</item>
+        <item>SANTIAGO ZOOCHILA</item>
+        <item>NUEVO ZOQUIAPAM</item>
+        <item>SANTO DOMINGO INGENIO</item>
+        <item>SANTO DOMINGO ALBARRADAS</item>
+        <item>SANTO DOMINGO ARMENTA</item>
+        <item>SANTO DOMINGO CHIHUITAN</item>
+        <item>SANTO DOMINGO DE MORELOS</item>
+        <item>SANTO DOMINGO IXCATLAN</item>
+        <item>SANTO DOMINGO NUXAA</item>
+        <item>SANTO DOMINGO OZOLOTEPEC</item>
+        <item>SANTO DOMINGO PETAPA</item>
+        <item>SANTO DOMINGO ROAYAGA</item>
+        <item>SANTO DOMINGO TEHUANTEPEC</item>
+        <item>SANTO DOMINGO TEOJOMULCO</item>
+        <item>SANTO DOMINGO TEPUXTEPEC</item>
+        <item>SANTO DOMINGO TLATAYAPAM</item>
+        <item>SANTO DOMINGO TOMALTEPEC</item>
+        <item>SANTO DOMINGO TONALA</item>
+        <item>SANTO DOMINGO TONALTEPEC</item>
+        <item>SANTO DOMINGO XAGACIA</item>
+        <item>SANTO DOMINGO YANHUITLAN</item>
+        <item>SANTO DOMINGO YODOHINO</item>
+        <item>SANTO DOMINGO ZANATEPEC</item>
+        <item>SANTOS REYES NOPALA</item>
+        <item>SANTOS REYES PAPALO</item>
+        <item>SANTOS REYES TEPEJILLO</item>
+        <item>SANTOS REYES YUCUNA</item>
+        <item>SANTO TOMAS JALIEZA</item>
+        <item>SANTO TOMAS MAZALTEPEC</item>
+        <item>SANTO TOMAS OCOTEPEC</item>
+        <item>SANTO TOMAS TAMAZULAPAN</item>
+        <item>SAN VICENTE COATLAN</item>
+        <item>SAN VICENTE LACHIXIO</item>
+        <item>SAN VICENTE NUNU</item>
+        <item>SILACAYOAPAM</item>
+        <item>SITIO DE XITLAPEHUA</item>
+        <item>SOLEDAD ETLA</item>
+        <item>VILLA DE TAMAZULAPAM DEL PROGRESO</item>
+        <item>TANETZE DE ZARAGOZA</item>
+        <item>TANICHE</item>
+        <item>TATALTEPEC DE VALDES</item>
+        <item>TEOCOCUILCO DE MARCOS PEREZ</item>
+        <item>TEOTITLAN DE FLORES MAGON</item>
+        <item>TEOTITLAN DEL VALLE</item>
+        <item>TEOTONGO</item>
+        <item>TEPELMEME VILLA DE MORELOS</item>
+        <item>HEROICA VILLA TEZOATLAN DE SEGURA Y LUNA, CUNA DE LA INDEPENDENCIA DE OAXACA</item>
+        <item>SAN JERONIMO TLACOCHAHUAYA</item>
+        <item>TLACOLULA DE MATAMOROS</item>
+        <item>TLACOTEPEC PLUMAS</item>
+        <item>TLALIXTAC DE CABRERA</item>
+        <item>TOTONTEPEC VILLA DE MORELOS</item>
+        <item>TRINIDAD ZAACHILA</item>
+        <item>LA TRINIDAD VISTA HERMOSA</item>
+        <item>UNION HIDALGO</item>
+        <item>VALERIO TRUJANO</item>
+        <item>SAN JUAN BAUTISTA VALLE NACIONAL</item>
+        <item>VILLA DIAZ ORDAZ</item>
+        <item>YAXE</item>
+        <item>MAGDALENA YODOCONO DE PORFIRIO DIAZ</item>
+        <item>YOGANA</item>
+        <item>YUTANDUCHI DE GUERRERO</item>
+        <item>VILLA DE ZAACHILA</item>
+        <item>SAN MATEO YUCUTINDOO</item>
+        <item>ZAPOTITLAN LAGUNAS</item>
+        <item>ZAPOTITLAN PALMAS</item>
+        <item>SANTA INES DE ZARAGOZA</item>
+        <item>ZIMATLAN DE ALVAREZ</item>
+    </string-array>
+
+    <string-array name="municipios_PUEBLA">
+        <item>ACAJETE</item>
+        <item>ACATENO</item>
+        <item>ACATLAN</item>
+        <item>ACATZINGO</item>
+        <item>ACTEOPAN</item>
+        <item>AHUACATLAN</item>
+        <item>AHUATLAN</item>
+        <item>AHUAZOTEPEC</item>
+        <item>AHUEHUETITLA</item>
+        <item>AJALPAN</item>
+        <item>ALBINO ZERTUCHE</item>
+        <item>ALJOJUCA</item>
+        <item>ALTEPEXI</item>
+        <item>AMIXTLAN</item>
+        <item>AMOZOC</item>
+        <item>AQUIXTLA</item>
+        <item>ATEMPAN</item>
+        <item>ATEXCAL</item>
+        <item>ATLIXCO</item>
+        <item>ATOYATEMPAN</item>
+        <item>ATZALA</item>
+        <item>ATZITZIHUACAN</item>
+        <item>ATZITZINTLA</item>
+        <item>AXUTLA</item>
+        <item>AYOTOXCO DE GUERRERO</item>
+        <item>CALPAN</item>
+        <item>CALTEPEC</item>
+        <item>CAMOCUAUTLA</item>
+        <item>CAXHUACAN</item>
+        <item>COATEPEC</item>
+        <item>COATZINGO</item>
+        <item>COHETZALA</item>
+        <item>COHUECAN</item>
+        <item>CORONANGO</item>
+        <item>COXCATLAN</item>
+        <item>COYOMEAPAN</item>
+        <item>COYOTEPEC</item>
+        <item>CUAPIAXTLA DE MADERO</item>
+        <item>CUAUTEMPAN</item>
+        <item>CUAUTINCHAN</item>
+        <item>CUAUTLANCINGO</item>
+        <item>CUAYUCA DE ANDRADE</item>
+        <item>CUETZALAN DEL PROGRESO</item>
+        <item>CUYOACO</item>
+        <item>CHALCHICOMULA DE SESMA</item>
+        <item>CHAPULCO</item>
+        <item>CHIAUTLA</item>
+        <item>CHIAUTZINGO</item>
+        <item>CHICONCUAUTLA</item>
+        <item>CHICHIQUILA</item>
+        <item>CHIETLA</item>
+        <item>CHIGMECATITLAN</item>
+        <item>CHIGNAHUAPAN</item>
+        <item>CHIGNAUTLA</item>
+        <item>CHILA</item>
+        <item>CHILA DE LA SAL</item>
+        <item>HONEY</item>
+        <item>CHILCHOTLA</item>
+        <item>CHINANTLA</item>
+        <item>DOMINGO ARENAS</item>
+        <item>ELOXOCHITLAN</item>
+        <item>EPATLAN</item>
+        <item>ESPERANZA</item>
+        <item>FRANCISCO Z. MENA</item>
+        <item>GENERAL FELIPE ANGELES</item>
+        <item>GUADALUPE</item>
+        <item>GUADALUPE VICTORIA</item>
+        <item>HERMENEGILDO GALEANA</item>
+        <item>HUAQUECHULA</item>
+        <item>HUATLATLAUCA</item>
+        <item>HUAUCHINANGO</item>
+        <item>HUEHUETLA</item>
+        <item>HUEHUETLAN EL CHICO</item>
+        <item>HUEJOTZINGO</item>
+        <item>HUEYAPAN</item>
+        <item>HUEYTAMALCO</item>
+        <item>HUEYTLALPAN</item>
+        <item>HUITZILAN DE SERDAN</item>
+        <item>HUITZILTEPEC</item>
+        <item>ATLEQUIZAYAN</item>
+        <item>IXCAMILPA DE GUERRERO</item>
+        <item>IXCAQUIXTLA</item>
+        <item>IXTACAMAXTITLAN</item>
+        <item>IXTEPEC</item>
+        <item>IZUCAR DE MATAMOROS</item>
+        <item>JALPAN</item>
+        <item>JOLALPAN</item>
+        <item>JONOTLA</item>
+        <item>JOPALA</item>
+        <item>JUAN C. BONILLA</item>
+        <item>JUAN GALINDO</item>
+        <item>JUAN N. MENDEZ</item>
+        <item>LAFRAGUA</item>
+        <item>LIBRES</item>
+        <item>LA MAGDALENA TLATLAUQUITEPEC</item>
+        <item>MAZAPILTEPEC DE JUÁREZ</item>
+        <item>MIXTLA</item>
+        <item>MOLCAXAC</item>
+        <item>CAÑADA MORELOS</item>
+        <item>NAUPAN</item>
+        <item>NAUZONTLA</item>
+        <item>NEALTICAN</item>
+        <item>NICOLÁS BRAVO</item>
+        <item>NOPALUCAN</item>
+        <item>OCOTEPEC</item>
+        <item>OCOYUCAN</item>
+        <item>OLINTLA</item>
+        <item>ORIENTAL</item>
+        <item>PAHUATLÁN</item>
+        <item>PALMAR DE BRAVO</item>
+        <item>PANTEPEC</item>
+        <item>PETLALCINGO</item>
+        <item>PIAXTLA</item>
+        <item>PUEBLA</item>
+        <item>QUECHOLAC</item>
+        <item>QUIMIXTLAN</item>
+        <item>RAFAEL LARA GRAJALES</item>
+        <item>LOS REYES DE JUAREZ</item>
+        <item>SAN ANDRES CHOLULA</item>
+        <item>SAN ANTONIO CAÑADA</item>
+        <item>SAN DIEGO LA MESA TOCHIMILTZINGO</item>
+        <item>SAN FELIPE TEOTLALCINGO</item>
+        <item>SAN FELIPE TEPATLAN</item>
+        <item>SAN GABRIEL CHILAC</item>
+        <item>SAN GREGORIO ATZOMPA</item>
+        <item>SAN JERONIMO TECUANIPAN</item>
+        <item>SAN JERONIMO XAYACATLAN</item>
+        <item>SAN JOSE CHIAPA</item>
+        <item>SAN JOSE MIAHUATLAN</item>
+        <item>SAN JUAN ATENCO</item>
+        <item>SAN JUAN ATZOMPA</item>
+        <item>SAN MARTIN TEXMELUCAN</item>
+        <item>SAN MARTIN TOTOLTEPEC</item>
+        <item>SAN MATIAS TLALANCALECA</item>
+        <item>SAN MIGUEL IXITLAN</item>
+        <item>SAN MIGUEL XOXTLA</item>
+        <item>SAN NICOLAS BUENOS AIRES</item>
+        <item>SAN NICOLAS DE LOS RANCHOS</item>
+        <item>SAN PABLO ANICANO</item>
+        <item>SAN PEDRO CHOLULA</item>
+        <item>SAN PEDRO YELOIXTLAHUACA</item>
+        <item>SAN SALVADOR EL SECO</item>
+        <item>SAN SALVADOR EL VERDE</item>
+        <item>SAN SALVADOR HUIXCOLOTLA</item>
+        <item>SAN SEBASTIAN TLACOTEPEC</item>
+        <item>SANTA CATARINA TLALTEMPAN</item>
+        <item>SANTA INES AHUATEMPAN</item>
+        <item>SANTA ISABEL CHOLULA</item>
+        <item>SANTIAGO MIAHUATLAN</item>
+        <item>HUEHUETLAN EL GRANDE</item>
+        <item>SANTO TOMAS HUEYOTLIPAN</item>
+        <item>SOLTEPEC</item>
+        <item>TECALI DE HERRERA</item>
+        <item>TECAMACHALCO</item>
+        <item>TECOMATLAN</item>
+        <item>TEHUACAN</item>
+        <item>TEHUITZINGO</item>
+        <item>TENAMPULCO</item>
+        <item>TEOPANTLAN</item>
+        <item>TEOTLALCO</item>
+        <item>TEPANCO DE LOPEZ</item>
+        <item>TEPANGO DE RODRIGUEZ</item>
+        <item>TEPATLAXCO DE HIDALGO</item>
+        <item>TEPEACA</item>
+        <item>TEPEMAXALCO</item>
+        <item>TEPEOJUMA</item>
+        <item>TEPETZINTLA</item>
+        <item>TEPEXCO</item>
+        <item>TEPEXI DE RODRIGUEZ</item>
+        <item>TEPEYAHUALCO</item>
+        <item>TEPEYAHUALCO DE CUAUHTEMOC</item>
+        <item>TETELA DE OCAMPO</item>
+        <item>TETELES DE AVILA CASTILLO</item>
+        <item>TEZIUTLAN</item>
+        <item>TIANGUISMANALCO</item>
+        <item>TILAPA</item>
+        <item>TLACOTEPEC DE BENITO JUAREZ</item>
+        <item>TLACUILOTEPEC</item>
+        <item>TLACHICHUCA</item>
+        <item>TLAHUAPAN</item>
+        <item>TLALTENANGO</item>
+        <item>TLANEPANTLA</item>
+        <item>TLAOLA</item>
+        <item>TLAPACOYA</item>
+        <item>TLAPANALA</item>
+        <item>TLATLAUQUITEPEC</item>
+        <item>TLAXCO</item>
+        <item>TOCHIMILCO</item>
+        <item>TOCHTEPEC</item>
+        <item>TOTOLTEPEC DE GUERRERO</item>
+        <item>TULCINGO</item>
+        <item>TECOMATLAN DE GALEANA</item>
+        <item>TZICATLACOYAN</item>
+        <item>VENUSTIANO CARRANZA</item>
+        <item>VICENTE GUERRERO</item>
+        <item>XAYACATLAN DE BRAVO</item>
+        <item>XICOTEPEC</item>
+        <item>XICOTLAN</item>
+        <item>XIUTETELCO</item>
+        <item>XOCHIAPULCO</item>
+        <item>XOCHILTEPEC</item>
+        <item>XOCHITLAN DE VICENTE SUAREZ</item>
+        <item>XOCHITLAN TODOS SANTOS</item>
+        <item>YAONAHUAC</item>
+        <item>YEUALTEPEC</item>
+        <item>ZACAPALA</item>
+        <item>ZACAPOAXTLA</item>
+        <item>ZACATLAN</item>
+        <item>ZAPOTITLAN</item>
+        <item>ZAPOTITLAN DE MENDEZ</item>
+        <item>ZARAGOZA</item>
+        <item>ZAUTLA</item>
+        <item>ZIHUATEUTLA</item>
+        <item>ZINACATEPEC</item>
+        <item>ZONGOZOTLA</item>
+        <item>ZOQUIAPAN</item>
+        <item>ZOQUITLAN</item>
+    </string-array>
+
+    <string-array name="municipios_QUERETARO">
+        <item>AMEALCO DE BONFIL</item>
+        <item>PINAL DE AMOLES</item>
+        <item>ARROYO SECO</item>
+        <item>CADEREYTA DE MONTES</item>
+        <item>COLON</item>
+        <item>CORREGIDORA</item>
+        <item>EZEQUIEL MONTES</item>
+        <item>HUIMILPAN</item>
+        <item>JALPAN DE SERRA</item>
+        <item>LANDA DE MATAMOROS</item>
+        <item>EL MARQUES</item>
+        <item>PEDRO ESCOBEDO</item>
+        <item>PENAMILLER</item>
+        <item>QUERETARO</item>
+        <item>SAN JOAQUIN</item>
+        <item>SAN JUAN DEL RIO</item>
+        <item>TEQUISQUIAPAN</item>
+        <item>TOLIMAN</item>
+    </string-array>
+
+    <string-array name="municipios_QUINTANA_ROO">
+        <item>COZUMEL</item>
+        <item>FELIPE CARRILLO PUERTO</item>
+        <item>ISLA MUJERES</item>
+        <item>OTHON P. BLANCO</item>
+        <item>BENITO JUAREZ</item>
+        <item>JOSE MARIA MORELOS</item>
+        <item>LAZARO CARDENAS</item>
+        <item>SOLIDARIDAD</item>
+        <item>TULUM</item>
+        <item>BACALAR</item>
+        <item>PUERTO MORELOS</item>
+    </string-array>
+
+    <string-array name="municipios_SAN_LUIS_POTOSI">
+        <item>AHUALULCO</item>
+        <item>ALAQUINES</item>
+        <item>AQUISMON</item>
+        <item>ARMADILLO DE LOS INFANTE</item>
+        <item>CARDENAS</item>
+        <item>CATORCE</item>
+        <item>CEDRAL</item>
+        <item>CERRITOS</item>
+        <item>CERRO DE SAN PEDRO</item>
+        <item>CIUDAD DEL MAIZ</item>
+        <item>CIUDAD FERNANDEZ</item>
+        <item>TANCANHUITZ</item>
+        <item>CIUDAD VALLES</item>
+        <item>COXCATLAN</item>
+        <item>CHARCAS</item>
+        <item>EBANO</item>
+        <item>GUADALCAZAR</item>
+        <item>HUEHUETLAN</item>
+        <item>LAGUNILLAS</item>
+        <item>MATEHUALA</item>
+        <item>MEXQUITIC DE CARMONA</item>
+        <item>MOCTEZUMA</item>
+        <item>RAYON</item>
+        <item>RIOVERDE</item>
+        <item>SALINAS</item>
+        <item>SAN ANTONIO</item>
+        <item>SAN CIRO DE ACOSTA</item>
+        <item>SAN LUIS POTOSI</item>
+        <item>SAN MARTIN CHALCHICUAUTLA</item>
+        <item>SAN NICOLAS TOLENTINO</item>
+        <item>SANTA CATARINA</item>
+        <item>SANTA MARIA DEL RIO</item>
+        <item>SANTO DOMINGO</item>
+        <item>SAN VICENTE TANCUAYALAB</item>
+        <item>SOLEDAD DE GRACIANO SANCHEZ</item>
+        <item>TAMASOPO</item>
+        <item>TAMAZUNCHALE</item>
+        <item>TAMPACAN</item>
+        <item>TAMPAMOLON CORONA</item>
+        <item>TAMUIN</item>
+        <item>TANLAJAS</item>
+        <item>TANQUIAN DE ESCOBEDO</item>
+        <item>TIERRA NUEVA</item>
+        <item>VANEGAS</item>
+        <item>VENADO</item>
+        <item>VILLA DE ARRIAGA</item>
+        <item>VILLA DE GUADALUPE</item>
+        <item>VILLA DE LA PAZ</item>
+        <item>VILLA DE RAMOS</item>
+        <item>VILLA DE REYES</item>
+        <item>VILLA HIDALGO</item>
+        <item>VILLA JUAREZ</item>
+        <item>AXTLA DE TERRAZAS</item>
+        <item>XILITLA</item>
+        <item>ZARAGOZA</item>
+        <item>VILLA DE ARISTA</item>
+        <item>MATLAPA</item>
+        <item>EL NARANJO</item>
+    </string-array>
+
+
+    <string-array name="municipios_SINALOA">
+        <item>AHOME</item>
+        <item>ANGOSTURA</item>
+        <item>BADIRAGUATO</item>
+        <item>CONCORDIA</item>
+        <item>COSALA</item>
+        <item>CULIACAN</item>
+        <item>CHOIX</item>
+        <item>ELOTA</item>
+        <item>ESCUINAPA</item>
+        <item>EL FUERTE</item>
+        <item>GUASAVE</item>
+        <item>MAZATLAN</item>
+        <item>MOCORITO</item>
+        <item>ROSARIO</item>
+        <item>SALVADOR ALVARADO</item>
+        <item>SAN IGNACIO</item>
+        <item>SINALOA</item>
+        <item>NAVOLATO</item>
+    </string-array>
+
+    <string-array name="municipios_SONORA">
+        <item>ACONCHI</item>
+        <item>AGUA PRIETA</item>
+        <item>ALAMOS</item>
+        <item>ALTAR</item>
+        <item>ARIVECHI</item>
+        <item>ARIZPE</item>
+        <item>ATIL</item>
+        <item>BACADEHUACHI</item>
+        <item>BACANORA</item>
+        <item>BACERAC</item>
+        <item>BACOACHI</item>
+        <item>BACUM</item>
+        <item>BANAMICHI</item>
+        <item>BAVIACORA</item>
+        <item>BAVISPE</item>
+        <item>BENJAMIN HILL</item>
+        <item>CABORCA</item>
+        <item>CAJEME</item>
+        <item>CANANEA</item>
+        <item>CARBO</item>
+        <item>LA COLORADA</item>
+        <item>CUCURPE</item>
+        <item>CUMPAS</item>
+        <item>DIVISADEROS</item>
+        <item>EMPALME</item>
+        <item>ETCHOJOA</item>
+        <item>FRONTERAS</item>
+        <item>GRANADOS</item>
+        <item>GUAYMAS</item>
+        <item>HERMOSILLO</item>
+        <item>HUACHINERA</item>
+        <item>HUASABAS</item>
+        <item>HUATABAMPO</item>
+        <item>HUEPAC</item>
+        <item>IMURIS</item>
+        <item>MAGDALENA</item>
+        <item>MAZATAN</item>
+        <item>MOCTEZUMA</item>
+        <item>NACO</item>
+        <item>NACORI CHICO</item>
+        <item>NACOZARI DE GARCIA</item>
+        <item>NAVOJOA</item>
+        <item>NOGALES</item>
+        <item>ONAVAS</item>
+        <item>OPODEPE</item>
+        <item>OQUITOA</item>
+        <item>PITIQUITO</item>
+        <item>PUERTO PENASCO</item>
+        <item>QUIRIEGO</item>
+        <item>RAYON</item>
+        <item>ROSARIO</item>
+        <item>SAHUARIPA</item>
+        <item>SAN FELIPE DE JESUS</item>
+        <item>SAN JAVIER</item>
+        <item>SAN LUIS RIO COLORADO</item>
+        <item>SAN MIGUEL DE HORCASITAS</item>
+        <item>SAN PEDRO DE LA CUEVA</item>
+        <item>SANTA ANA</item>
+        <item>SANTA CRUZ</item>
+        <item>SARIC</item>
+        <item>SOYOPA</item>
+        <item>SUAQUI GRANDE</item>
+        <item>TEPACHE</item>
+        <item>TRINCHERAS</item>
+        <item>TUBUTAMA</item>
+        <item>URES</item>
+        <item>VILLA HIDALGO</item>
+        <item>VILLA PESQUEIRA</item>
+        <item>YECORA</item>
+        <item>GENERAL PLUTARCO ELIAS CALLES</item>
+        <item>BENITO JUAREZ</item>
+        <item>SAN IGNACIO RIO MUERTO</item>
+    </string-array>
+
+    <string-array name="municipios_TABASCO">
+        <item>BALANCAN</item>
+        <item>CARDENAS</item>
+        <item>CENTLA</item>
+        <item>CENTRO</item>
+        <item>COMALCALCO</item>
+        <item>CUNDUACAN</item>
+        <item>EMILIANO ZAPATA</item>
+        <item>HUIMANGUILLO</item>
+        <item>JALAPA</item>
+        <item>JALPA DE MENDEZ</item>
+        <item>JONUTA</item>
+        <item>MACUSPANA</item>
+        <item>NACAJUCA</item>
+        <item>PARAISO</item>
+        <item>TACOTALPA</item>
+        <item>TEAPA</item>
+        <item>TENOSIQUE</item>
+    </string-array>
+
+    <string-array name="municipios_TAMAULIPAS">
+        <item>ABASOLO</item>
+        <item>ALDAMA</item>
+        <item>ALTAMIRA</item>
+        <item>ANTIGUO MORELOS</item>
+        <item>BURGOS</item>
+        <item>BUSTAMANTE</item>
+        <item>CAMARGO</item>
+        <item>CASAS</item>
+        <item>CIUDAD MADERO</item>
+        <item>CRUILLAS</item>
+        <item>GOMEZ FARIAS</item>
+        <item>GONZALEZ</item>
+        <item>GUEMEZ</item>
+        <item>GUERRERO</item>
+        <item>GUSTAVO DIAZ ORDAZ</item>
+        <item>HIDALGO</item>
+        <item>JAUMAVE</item>
+        <item>JIMENEZ</item>
+        <item>LLERA</item>
+        <item>MAINERO</item>
+        <item>EL MANTE</item>
+        <item>MATAMOROS</item>
+        <item>MENDEZ</item>
+        <item>MIER</item>
+        <item>MIGUEL ALEMAN</item>
+        <item>MIQUIHUANA</item>
+        <item>NUEVO LAREDO</item>
+        <item>NUEVO MORELOS</item>
+        <item>OCAMPO</item>
+        <item>PADILLA</item>
+        <item>PALMILLAS</item>
+        <item>REYNOSA</item>
+        <item>RIO BRAVO</item>
+        <item>SAN CARLOS</item>
+        <item>SAN FERNANDO</item>
+        <item>SAN NICOLAS</item>
+        <item>SOTO LA MARINA</item>
+        <item>TAMPICO</item>
+        <item>TULA</item>
+        <item>VALLE HERMOSO</item>
+        <item>VICTORIA</item>
+        <item>VILLAGRAN</item>
+        <item>XICOTENCATL</item>
+    </string-array>
+
+    <string-array name="municipios_TLAXCALA">
+        <item>AMAXAC DE GUERRERO</item>
+        <item>APETATITLAN DE ANTONIO CARVAJAL</item>
+        <item>ATLANGATEPEC</item>
+        <item>ATLTZAYANCA</item>
+        <item>APIZACO</item>
+        <item>CALPULALPAN</item>
+        <item>EL CARMEN TEQUEXQUITLA</item>
+        <item>CUAPIAXTLA</item>
+        <item>CUAXOMULCO</item>
+        <item>CHIAUTEMPAN</item>
+        <item>MUNOZ DE DOMINGO ARENAS</item>
+        <item>ESPANITA</item>
+        <item>HUAMANTLA</item>
+        <item>HUEYOTLIPAN</item>
+        <item>IXTACUIXTLA DE MARIANO MATAMOROS</item>
+        <item>IXTENCO</item>
+        <item>MAZATECOCHCO DE JOSE MARIA MORELOS</item>
+        <item>CONTLA DE JUAN CUAMATZI</item>
+        <item>TEPETITLA DE LARDIZABAL</item>
+        <item>SANCTORUM DE LAZARO CARDENAS</item>
+        <item>NANACAMILPA DE MARIANO ARISTA</item>
+        <item>ACUAMANALA DE MIGUEL HIDALGO</item>
+        <item>NATIVITAS</item>
+        <item>PANOTLA</item>
+        <item>SAN PABLO DEL MONTE</item>
+        <item>SANTA CRUZ TLAXCALA</item>
+        <item>TENANCINGO</item>
+        <item>TEOLOCHOLCO</item>
+        <item>TEPEYANCO</item>
+        <item>TERRENATE</item>
+        <item>TETLA DE LA SOLIDARIDAD</item>
+        <item>TETLATLAHUCA</item>
+        <item>TLAXCALA</item>
+        <item>TLAXCO</item>
+        <item>TOCATLAN</item>
+        <item>TOTOLAC</item>
+        <item>ZILTLALTEPEC DE TRINIDAD SANCHEZ SANTOS</item>
+        <item>TZOMPANTEPEC</item>
+        <item>XALOZTOC</item>
+        <item>XALTOCAN</item>
+        <item>PAPALOTLA DE XICOHTENCATL</item>
+        <item>XICOHTZINCO</item>
+        <item>YAUHQUEMEHCAN</item>
+        <item>ZACATELCO</item>
+        <item>BENITO JUAREZ</item>
+        <item>EMILIANO ZAPATA</item>
+        <item>LAZARO CARDENAS</item>
+        <item>LA MAGDALENA TLALTELULCO</item>
+        <item>SAN DAMIAN TEXOLOC</item>
+        <item>SAN FRANCISCO TETLANOHCAN</item>
+        <item>SAN JERONIMO ZACUALPAN</item>
+        <item>SAN JOSE TEACALCO</item>
+        <item>SAN JUAN HUACTZINCO</item>
+        <item>SAN LORENZO AXOCOMANITLA</item>
+        <item>SAN LUCAS TECOPILCO</item>
+        <item>SANTA ANA NOPALUCAN</item>
+        <item>SANTA APOLONIA TEACALCO</item>
+        <item>SANTA CATARINA AYOMETLA</item>
+        <item>SANTA CRUZ QUILEHTLA</item>
+        <item>SANTA ISABEL XILOXOXTLA</item>
+    </string-array>
+
+    <string-array name="municipios_VERACRUZ">
+        <item>ACAJETE</item>
+        <item>ACATLAN</item>
+        <item>ACAYUCAN</item>
+        <item>ACTOPAN</item>
+        <item>ACULA</item>
+        <item>ACULTZINGO</item>
+        <item>CAMARON DE TEJEDA</item>
+        <item>ALPATLAHUAC</item>
+        <item>ALTO LUCERO DE GUTIERREZ BARRIOS</item>
+        <item>ALTOTONGA</item>
+        <item>ALVARADO</item>
+        <item>AMATITLAN</item>
+        <item>NARANJOS AMATLAN</item>
+        <item>AMATLAN DE LOS REYES</item>
+        <item>ANGEL R. CABADA</item>
+        <item>LA ANTIGUA</item>
+        <item>APAZAPAN</item>
+        <item>AQUILA</item>
+        <item>ASTACINGA</item>
+        <item>ATLAHUILCO</item>
+        <item>ATOYAC</item>
+        <item>ATZACAN</item>
+        <item>ATZALAN</item>
+        <item>TLALTELELA</item>
+        <item>AYAHUALULCO</item>
+        <item>BANDERILLA</item>
+        <item>BENITO JUAREZ</item>
+        <item>BOCA DEL RIO</item>
+        <item>CALCAHUALCO</item>
+        <item>CAMERINO Z. MENDOZA</item>
+        <item>CARRILLO PUERTO</item>
+        <item>CATEMACO</item>
+        <item>CAZONES DE HERRERA</item>
+        <item>CERRO AZUL</item>
+        <item>CITLALTEPETL</item>
+        <item>COACOATZINTLA</item>
+        <item>COAHUITLAN</item>
+        <item>COATEPEC</item>
+        <item>COATZACOALCOS</item>
+        <item>COATZINTLA</item>
+        <item>COETZALA</item>
+        <item>COLIPA</item>
+        <item>COMAPA</item>
+        <item>CORDOBA</item>
+        <item>COSAMALOAPAN DE CARPIO</item>
+        <item>COSAUTLAN DE CARVAJAL</item>
+        <item>COSCOMATEPEC</item>
+        <item>COSOLEACAQUE</item>
+        <item>COTAXTLA</item>
+        <item>COXQUIHUI</item>
+        <item>COYUTLA</item>
+        <item>CUICHAPA</item>
+        <item>CUITLAHUAC</item>
+        <item>CHACALTIANGUIS</item>
+        <item>CHALMA</item>
+        <item>CHICONAMEL</item>
+        <item>CHICONQUIACO</item>
+        <item>CHICONTEPEC</item>
+        <item>CHINAMECA</item>
+        <item>CHINAMPA DE GOROSTIZA</item>
+        <item>LAS CHOAPAS</item>
+        <item>CHOCAMAN</item>
+        <item>CHONTLA</item>
+        <item>CHUMATLAN</item>
+        <item>EMILIANO ZAPATA</item>
+        <item>ESPINAL</item>
+        <item>FILOMENO MATA</item>
+        <item>FORTIN</item>
+        <item>GUTIERREZ ZAMORA</item>
+        <item>HIDALGOTITLAN</item>
+        <item>HUATUSCO</item>
+        <item>HUAYACOCOTLA</item>
+        <item>HUEYAPAN DE OCAMPO</item>
+        <item>HUILOAPAN DE CUAUHTEMOC</item>
+        <item>IGNACIO DE LA LLAVE</item>
+        <item>ILAMATLAN</item>
+        <item>ISLA</item>
+        <item>IXCATEPEC</item>
+        <item>IXHUACAN DE LOS REYES</item>
+        <item>IXHUATLAN DEL CAFE</item>
+        <item>IXHUATLANCILLO</item>
+        <item>IXHUATLAN DEL SURESTE</item>
+        <item>IXHUATLAN DE MADERO</item>
+        <item>IXMATLAHUACAN</item>
+        <item>IXTACZOQUITLAN</item>
+        <item>JALACINGO</item>
+        <item>XALAPA</item>
+        <item>JALCOMULCO</item>
+        <item>JALTIPAN</item>
+        <item>JAMAPA</item>
+        <item>JESUS CARRANZA</item>
+        <item>XICO</item>
+        <item>JILOTEPEC</item>
+        <item>JUAN RODRIGUEZ CLARA</item>
+        <item>JUCHIQUE DE FERRER</item>
+        <item>LANDERO Y COSS</item>
+        <item>LERDO DE TEJADA</item>
+        <item>MAGDALENA</item>
+        <item>MALTRATA</item>
+        <item>MANLIO FABIO ALTAMIRANO</item>
+        <item>MARIANO ESCOBEDO</item>
+        <item>MARTINEZ DE LA TORRE</item>
+        <item>MECATLAN</item>
+        <item>MECAYAPAN</item>
+        <item>MEDELLIN DE BRAVO</item>
+        <item>MIAHUATLAN</item>
+        <item>LAS MINAS</item>
+        <item>MINATITLAN</item>
+        <item>MISANTLA</item>
+        <item>MIXTLA DE ALTAMIRANO</item>
+        <item>MOLOACAN</item>
+        <item>NAOLINCO</item>
+        <item>NARANJAL</item>
+        <item>NAUTLA</item>
+        <item>NOGALES</item>
+        <item>OLUTA</item>
+        <item>OMEALCA</item>
+        <item>ORIZABA</item>
+        <item>OTATITLAN</item>
+        <item>OTEAPAN</item>
+        <item>OZULUAMA DE MASCAREÑAS</item>
+        <item>PAJAPAN</item>
+        <item>PANUCO</item>
+        <item>PAPANTLA</item>
+        <item>PASO DEL MACHO</item>
+        <item>PASO DE OVEJAS</item>
+        <item>LA PERLA</item>
+        <item>PEROTE</item>
+        <item>PLATON SANCHEZ</item>
+        <item>PLAYA VICENTE</item>
+        <item>POZA RICA DE HIDALGO</item>
+        <item>LAS VIGAS DE RAMIREZ</item>
+        <item>PUEBLO VIEJO</item>
+        <item>PUENTE NACIONAL</item>
+        <item>RAFAEL DELGADO</item>
+        <item>RAFAEL LUCIO</item>
+        <item>LOS REYES</item>
+        <item>RIO BLANCO</item>
+        <item>SALTABARRANCA</item>
+        <item>SAN ANDRES TENEJAPAN</item>
+        <item>SAN ANDRES TUXTLA</item>
+        <item>SAN JUAN EVANGELISTA</item>
+        <item>SANTIAGO TUXTLA</item>
+        <item>SAYULA DE ALEMAN</item>
+        <item>SOCONUSCO</item>
+        <item>SOCHIAPA</item>
+        <item>SOLEDAD ATZOMPA</item>
+        <item>SOLEDAD DE DOBLADO</item>
+        <item>SOTEAPAN</item>
+        <item>TAMALIN</item>
+        <item>TAMIAHUA</item>
+        <item>TAMPICO ALTO</item>
+        <item>TANCOCO</item>
+        <item>TANTIMA</item>
+        <item>TANTOYUCA</item>
+        <item>TATATILA</item>
+        <item>CASTILLO DE TEAYO</item>
+        <item>TECOLUTLA</item>
+        <item>TEHUIPANGO</item>
+        <item>ALAMO TEMAPACHE</item>
+        <item>TEMPOAL</item>
+        <item>TENAMPA</item>
+        <item>TENOCHTITLAN</item>
+        <item>TEOCELO</item>
+        <item>TEPATLAXCO</item>
+        <item>TEPETLAN</item>
+        <item>TEPETZINTLA</item>
+        <item>TEQUILA</item>
+        <item>JOSE AZUETA</item>
+        <item>TEXCATEPEC</item>
+        <item>TEXHUACAN</item>
+        <item>TEXISTEPEC</item>
+        <item>TEZONAPA</item>
+        <item>TIERRA BLANCA</item>
+        <item>TIHUATLAN</item>
+        <item>TLACOJALPAN</item>
+        <item>TLACOLULAN</item>
+        <item>TLACOTALPAN</item>
+        <item>TLACOTEPEC DE MEJIA</item>
+        <item>TLACHICHILCO</item>
+        <item>TLALIXCOYAN</item>
+        <item>TLALNELHUAYOCAN</item>
+        <item>TLAPACOYAN</item>
+        <item>TLAQUILPA</item>
+        <item>TLILAPAN</item>
+        <item>TOMATLAN</item>
+        <item>TONAYAN</item>
+        <item>TOTUTLA</item>
+        <item>TUXPAN</item>
+        <item>TUXTILLA</item>
+        <item>URSULO GALVAN</item>
+        <item>VEGA DE ALATORRE</item>
+        <item>VERACRUZ</item>
+        <item>VILLA ALDAMA</item>
+        <item>XOXOCOTLA</item>
+        <item>YANGA</item>
+        <item>YECUATLA</item>
+        <item>ZACUALPAN</item>
+        <item>ZARAGOZA</item>
+        <item>ZENTLA</item>
+        <item>ZONGOLICA</item>
+        <item>ZONTECOMATLAN DE LOPEZ Y FUENTES</item>
+        <item>ZOZOCOLCO DE HIDALGO</item>
+        <item>AGUA DULCE</item>
+        <item>EL HIGO</item>
+        <item>NANCHITAL DE LÁZARO CÁRDENAS DEL RÍO</item>
+        <item>TRES VALLES</item>
+        <item>CARLOS A. CARRILLO</item>
+        <item>TATAHUICAPAN DE JUÁREZ</item>
+        <item>UXPANAPA</item>
+        <item>SAN RAFAEL</item>
+        <item>SANTIAGO SOCHIAPAN</item>
+    </string-array>
+
+    <string-array name="municipios_YUCATAN">
+        <item>ABALA</item>
+        <item>ACANCEH</item>
+        <item>AKIL</item>
+        <item>BACA</item>
+        <item>BOKOBA</item>
+        <item>BUCTZOTZ</item>
+        <item>CACALCHEN</item>
+        <item>CALOTMUL</item>
+        <item>CANSAHCAB</item>
+        <item>CANTAMAYEC</item>
+        <item>CELESTUN</item>
+        <item>CENOTILLO</item>
+        <item>CONKAL</item>
+        <item>CUNCUNUL</item>
+        <item>CUZAMA</item>
+        <item>CHACSINKIN</item>
+        <item>CHANKOM</item>
+        <item>CHAPAB</item>
+        <item>CHEMAX</item>
+        <item>CHICXULUB PUEBLO</item>
+        <item>CHICHIMILA</item>
+        <item>CHIKINDZONOT</item>
+        <item>CHOCHOLA</item>
+        <item>CHUMAYEL</item>
+        <item>DZAN</item>
+        <item>DZEMUL</item>
+        <item>DZIDZANTUN</item>
+        <item>DZILAM DE BRAVO</item>
+        <item>DZILAM GONZALEZ</item>
+        <item>DZITAS</item>
+        <item>DZONCAUICH</item>
+        <item>ESPITA</item>
+        <item>HALACHO</item>
+        <item>HOCABA</item>
+        <item>HOCTUN</item>
+        <item>HOMUN</item>
+        <item>HUHI</item>
+        <item>HUNUCMA</item>
+        <item>IXIL</item>
+        <item>IZAMAL</item>
+        <item>KANASIN</item>
+        <item>KANTUNIL</item>
+        <item>KAUA</item>
+        <item>KINCHIL</item>
+        <item>KOPOMA</item>
+        <item>MAMA</item>
+        <item>MANI</item>
+        <item>MAXCANU</item>
+        <item>MAYAPAN</item>
+        <item>MERIDA</item>
+        <item>MOCOCHA</item>
+        <item>MOTUL</item>
+        <item>MUNA</item>
+        <item>MUXUPIP</item>
+        <item>OPICHEN</item>
+        <item>OXKUTZCAB</item>
+        <item>PANABA</item>
+        <item>PETO</item>
+        <item>PROGRESO</item>
+        <item>QUINTANA ROO</item>
+        <item>RIO LAGARTOS</item>
+        <item>SACALUM</item>
+        <item>SAMAHIL</item>
+        <item>SANAHCAT</item>
+        <item>SAN FELIPE</item>
+        <item>SANTA ELENA</item>
+        <item>SEYE</item>
+        <item>SINANCHE</item>
+        <item>SOTUTA</item>
+        <item>SUCILA</item>
+        <item>SUDZAL</item>
+        <item>SUMA</item>
+        <item>TAHDZIU</item>
+        <item>TAHMEK</item>
+        <item>TEABO</item>
+        <item>TECOH</item>
+        <item>TEKAL DE VENEGAS</item>
+        <item>TEKANTO</item>
+        <item>TEKAX</item>
+        <item>TEKIT</item>
+        <item>TEKOM</item>
+        <item>TELCHAC PUEBLO</item>
+        <item>TELCHAC PUERTO</item>
+        <item>TEMAX</item>
+        <item>TEMOZON</item>
+        <item>TEPAKAN</item>
+        <item>TETIZ</item>
+        <item>TEYA</item>
+        <item>TICUL</item>
+        <item>TIMUCUY</item>
+        <item>TINUM</item>
+        <item>TIXCACALCUPUL</item>
+        <item>TIXKOKOB</item>
+        <item>TIXMEHUAC</item>
+        <item>TIXPEHUAL</item>
+        <item>TIZIMIN</item>
+        <item>TUNKAS</item>
+        <item>TZUCACAB</item>
+        <item>UAYMA</item>
+        <item>UCU</item>
+        <item>UMAN</item>
+        <item>VALLADOLID</item>
+        <item>XOCHEL</item>
+        <item>YAXCABA</item>
+        <item>YAXKUKUL</item>
+        <item>YOBAIN</item>
+    </string-array>
+
+    <string-array name="municipios_ZACATECAS">
+        <item>APOZOL</item>
+        <item>APULCO</item>
+        <item>ATOLINGA</item>
+        <item>BENITO JUAREZ</item>
+        <item>CALERA</item>
+        <item>CAÑITAS DE FELIPE PESCADOR</item>
+        <item>CONCEPCION DEL ORO</item>
+        <item>CUAUHTEMOC</item>
+        <item>CHALCHIHUITES</item>
+        <item>FRESNILLO</item>
+        <item>TRINIDAD GARCIA DE LA CADENA</item>
+        <item>GENARO CODINA</item>
+        <item>GENERAL ENRIQUE ESTRADA</item>
+        <item>GENERAL FRANCISCO R. MURGUÍA</item>
+        <item>EL PLATEADO DE JOAQUIN AMARO</item>
+        <item>GENERAL PANFILO NATERA</item>
+        <item>GUADALUPE</item>
+        <item>HUANUSCO</item>
+        <item>JALPA</item>
+        <item>JEREZ</item>
+        <item>JIMENEZ DEL TEUL</item>
+        <item>JUAN ALDAMA</item>
+        <item>JUCHIPILA</item>
+        <item>LORETO</item>
+        <item>LUIS MOYA</item>
+        <item>MAZAPIL</item>
+        <item>MELCHOR OCAMPO</item>
+        <item>MEZQUITAL DEL ORO</item>
+        <item>MIGUEL AUZA</item>
+        <item>MOMAX</item>
+        <item>MONTE ESCOBEDO</item>
+        <item>MORELOS</item>
+        <item>MOYAUA DE ESTRADA</item>
+        <item>NOCHISTLAN DE MEJIA</item>
+        <item>NORIA DE ANGELES</item>
+        <item>OJOCALIENTE</item>
+        <item>PANUCO</item>
+        <item>PINOS</item>
+        <item>RIO GRANDE</item>
+        <item>SAIN ALTO</item>
+        <item>EL SALVADOR</item>
+        <item>SOMBRERETE</item>
+        <item>SUSTICACAN</item>
+        <item>TABASCO</item>
+        <item>TEPECHITLAN</item>
+        <item>TEPETONGO</item>
+        <item>TEUL DE GONZALEZ ORTEGA</item>
+        <item>TLALTENANGO DE SANCHEZ ROMAN</item>
+        <item>VALPARAISO</item>
+        <item>VETAGRANDE</item>
+        <item>VILLA DE COS</item>
+        <item>VILLA GARCIA</item>
+        <item>VILLA GONZALEZ ORTEGA</item>
+        <item>VILLA HIDALGO</item>
+        <item>VILLANUEVA</item>
+        <item>ZACATECAS</item>
+        <item>TRANCOZO</item>
+        <item>SANTA MARIA DE LA PAZ</item>
+    </string-array>
+</resources>

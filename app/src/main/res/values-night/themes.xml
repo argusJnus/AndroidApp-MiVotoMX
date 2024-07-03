@@ -1,0 +1,61 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProyectoVOTOS_tovar41" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:statusBarColor">@color/topBlack</item>
+
+        <item name="colorAccent">@color/primario</item>
+        <item name="colorOnBackground">@color/fondoBlack</item>
+        <item name="colorPrimary">@color/primarioBlack</item>
+        <item name="colorSecondary">@color/secundarioBlack</item>
+        <item name="colorOnTertiary">@color/topBlack</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="colorTertiary">@color/white</item>
+        <item name="colorContainer">@color/camposBlack</item>
+        <item name="colorOnPrimary">@color/tituloBlack</item>
+        <item name="dialogTheme">@style/MyDialogTheme</item>
+    </style>
+    <style name="ButtonStyleDark">
+        <item name="android:background">@color/primarioBlack</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="MyDialogTheme" parent="Theme.AppCompat.Dialog">
+        <!-- Estilos específicos del diálogo -->
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowMinWidthMajor">100%</item>
+        <item name="android:windowMinWidthMinor">100%</item>
+        <item name="colorPrimary">@color/primarioBlack</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="colorAccent">@color/primario</item>
+    </style>
+
+    <style name="CustomDatePickerDialogTheme" parent="ThemeOverlay.MaterialComponents.Dialog">
+        <!-- Establece el color de fondo del diálogo -->
+        <item name="colorAccent">@color/primario</item>
+        <item name="colorPrimary">@color/primario</item>
+        <!-- Establece el color del texto de los botones -->
+    </style>
+
+    <style name="CustomSpinnerStyle" parent="Widget.AppCompat.Spinner.Underlined">
+        <!-- Estilo del Spinner -->
+        <item name="android:fontFamily">@font/pop</item> <!-- Define tu fuente aquí -->
+        <item name="android:textColor">@color/text</item> <!-- Define el color del texto -->
+        <item name="android:popupBackground">@color/camposBlack</item> <!-- Define el fondo del dropdown -->
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="CustomAuto" parent="Widget.AppCompat.AutoCompleteTextView">
+        <!-- Estilo del Spinner -->
+        <item name="android:fontFamily">@font/pop</item> <!-- Define tu fuente aquí -->
+        <item name="android:textColor">@color/text</item> <!-- Define el color del texto -->
+        <item name="android:popupBackground">@color/camposBlack</item> <!-- Define el fondo del dropdown -->
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="CircularImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item> <!-- Esto hace que la imagen sea circular -->
+    </style>
+
+</resources>
