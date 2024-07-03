@@ -1,9 +1,9 @@
 <?php
     class Database{
         private $host = "localhost";
-        private $db = "id21769232_mivotomx";
-        private $username= "id21769232_mivotomx";
-        private $pass = "@mvMX_bd32";
+        private $db = "xxxx";
+        private $username= "xxxx";
+        private $pass = "xxxx";
 
         public $conn;
 
